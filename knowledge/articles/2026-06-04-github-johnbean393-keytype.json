@@ -1,0 +1,17 @@
+{
+  "id": "github-20260604-003",
+  "title": "johnbean393/KeyType — macOS 全局 AI 自动补全",
+  "source_url": "https://github.com/johnbean393/KeyType",
+  "source_type": "github_trending",
+  "summary": "KeyType 是一款开源的 macOS 系统级 AI 自动补全工具，作为闭源商业软件 Cotypist 的免费替代方案。它通过本地 LLM 模型实时监控当前焦点的文本输入框，预测光标位置的续写内容并以幽灵文字（ghost text）形式展示，用户按 Tab 键即可接受补全。",
+  "tags": [
+    "AI",
+    "LLM",
+    "macOS",
+    "Autocomplete"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-04T12:00:00Z",
+  "published_at": null
+}

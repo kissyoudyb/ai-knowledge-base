@@ -1,0 +1,17 @@
+{
+  "id": "github-20260604-006",
+  "title": "PanisHandsome/ai-rules-sync — AI 编码规则同步工具",
+  "source_url": "https://github.com/PanisHandsome/ai-rules-sync",
+  "source_type": "github_trending",
+  "summary": "ai-rules-sync 是一个统一管理 AI 编码 Agent 规则文件的同步工具，支持在 AGENTS.md、CLAUD.md、.cursorrules、Copilot 等多种规则格式之间进行双向同步。解决了使用多个 AI 编码工具（Claude Code、Cursor、GitHub Copilot 等）时规则文件分散、难以统一维护的问题，帮助开发者保持编码规范的一致性。",
+  "tags": [
+    "AI",
+    "Coding",
+    "Agent",
+    "Developer Tools"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-04T12:00:00Z",
+  "published_at": null
+}

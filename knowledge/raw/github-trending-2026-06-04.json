@@ -1,0 +1,135 @@
+[
+  {
+    "title": "PentesterFlow/agent — 终端渗透测试 AI Agent",
+    "url": "https://github.com/PentesterFlow/agent",
+    "source": "github_trending",
+    "summary_zh": "PentesterFlow 是一款专为渗透测试人员和漏洞猎人设计的终端 AI Agent，将 Agentic 安全测试能力带入命令行。它支持连接本地或托管的 LLM，覆盖侦察、枚举、漏洞验证、证据收集和报告生成的完整渗透测试生命周期。内置安全技能库涵盖 Web 漏洞、SSRF、SSTI、JWT、GraphQL、条件竞争、子域名接管等多种攻防场景，并集成 Burp Suite 桥接和浏览器流量捕获功能。采用人机协同（Human-in-the-loop）模式，敏感操作需人工审批，同时具备跨会话的持续学习能力。",
+    "highlights": [
+      "人机协同设计：敏感操作需要分析师审批，保证安全可控，同时支持 YOLO 模式用于实验室环境",
+      "内置丰富安全技能库：覆盖 recon、webvuln、ssrf、jwt、graphql 等 10+ 渗透测试场景的 Markdown 方法论手册",
+      "持续学习系统：跨会话自动保存偏好、工作流和经验教训，无需手动管理记忆"
+    ],
+    "score": 8,
+    "score_reason": "实用价值高，直接服务于安全测试工作流，填补了 AI Agent 在渗透测试领域的空白，开源且功能完整，但受众相对专业垂直",
+    "tags": ["AI", "Security", "Penetration Testing", "Agent", "CLI"]
+  },
+  {
+    "title": "johnbean393/KeyType — macOS 全局 AI 自动补全",
+    "url": "https://github.com/johnbean393/KeyType",
+    "source": "github_trending",
+    "summary_zh": "KeyType 是一款开源的 macOS 系统级 AI 自动补全工具，作为闭源商业软件 Cotypist 的免费替代方案。它通过本地 LLM 模型实时监控当前焦点的文本输入框，预测光标位置的续写内容并以幽灵文字（ghost text）形式展示，用户按 Tab 键即可接受补全。基于 Swift 构建，采用模块化架构，核心组件包括 AutocompleteCore、MacContextCapture、ModelRuntime（集成 llama.cpp）等独立 SwiftPM 包，支持 Qwen3.5、Gemma 4 等本地模型，所有推理在设备端完成，不产生网络请求。",
+    "highlights": [
+      "完全本地运行：基于 llama.cpp 在设备端推理，所有数据不出本机，保护用户隐私",
+      "系统级全局覆盖：监控 macOS 任意应用的文本输入框并提供 Tab 补全，不限特定编辑器",
+      "开源替代商业产品：MIT 协议发布，是 Cotypist 的自由开源替代方案"
+    ],
+    "score": 7,
+    "score_reason": "实用价值高，直接提升日常输入效率，开源且注重隐私，但仅限 macOS 平台，适用范围有限",
+    "tags": ["AI", "macOS", "Autocomplete", "LLM", "Open Source"]
+  },
+  {
+    "title": "duncatzat/vigils — AI Agent 本地控制面板",
+    "url": "https://github.com/duncatzat/vigils",
+    "source": "github_trending",
+    "summary_zh": "Vigils 是一个本地优先的 AI Agent 控制平面，位于 Agent 与其所调用的工具/数据之间，提供监控、审批、脱敏和沙箱执行四大安全保障。基于 Rust + Tauri 2 构建，核心功能包括：SHA-256 哈希链防篡改审计账本、默认拒绝的防火墙策略引擎、人机协同审批队列、支持 13+ 种凭证类型的秘密/隐私脱敏引擎、短期密钥租赁代理、Wasm 及原生进程沙箱执行器。同时提供 MCP 网关、Tauri 桌面应用（Vue 3 前端）和 Chrome MV3 浏览器扩展三层界面。",
+    "highlights": [
+      "防篡改审计账本：基于 SQLite + SHA-256 哈希链记录每次工具调用，支持 FTS5 全文检索，可验证整个链条完整性",
+      "默认拒绝防火墙 + 秘密脱敏引擎：Rust 策略 DSL 门控所有工具调用，硬指纹识别 13+ 凭证类型，ML 辅助脱敏",
+      "全栈安全体系：MCP 网关、沙箱执行器、Landlock 文件系统隔离、短期密钥租赁，从入口到执行全方位保护"
+    ],
+    "score": 8,
+    "score_reason": "实用价值极高，直击 AI Agent 安全管控的核心痛点，技术架构完善，支持多平台，开源且有中英文双语文档",
+    "tags": ["AI", "Agent", "Security", "Rust", "MCP"]
+  },
+  {
+    "title": "PanisHandsome/ai-rules-sync — AI 编码规则同步工具",
+    "url": "https://github.com/PanisHandsome/ai-rules-sync",
+    "source": "github_trending",
+    "summary_zh": "ai-rules-sync 是一个统一管理 AI 编码 Agent 规则文件的同步工具，支持在 AGENTS.md、CLAUD.md、.cursorrules、Copilot 等多种规则格式之间进行双向同步。解决了使用多个 AI 编码工具（Claude Code、Cursor、GitHub Copilot 等）时规则文件分散、难以统一维护的问题，帮助开发者保持编码规范的一致性。",
+    "highlights": [
+      "多格式双向同步：在 AGENTS.md、CLAUD.md、.cursorrules、Copilot 等格式之间无缝互转",
+      "统一管理入口：一套规则文件维护，自动同步到各 AI 编码工具的配置格式"
+    ],
+    "score": 6,
+    "score_reason": "有一定参考价值，解决了多 AI 编码工具用户的规则维护痛点，但功能单一且受众限于使用多种编码 Agent 的开发者",
+    "tags": ["AI", "Coding", "Rules", "Agent", "Developer Tools"]
+  },
+  {
+    "title": "ethanhq/cc-fleet — Claude Code 多模型接入桥",
+    "url": "https://github.com/ethanhq/cc-fleet",
+    "source": "github_trending",
+    "summary_zh": "cc-fleet 是一个让 Claude Code 接入第三方模型（如 DeepSeek、GLM、Qwen 等）的桥梁工具。通过将外部模型作为原生 Agent Team 成员或一次性 subagent 使用，突破了 Claude Code 对 Anthropic 模型的绑定限制。用户可以在 Claude Code 的工作流中灵活调用不同模型处理不同任务，发挥各模型的优势。",
+    "highlights": [
+      "突破模型锁定：让 Claude Code 使用 DeepSeek、GLM、Qwen 等任意第三方 LLM 模型",
+      "灵活集成方式：支持作为 Agent Team 成员或一次性 subagent 两种使用模式"
+    ],
+    "score": 7,
+    "score_reason": "实用价值高，直接扩展了 Claude Code 的能力边界，让用户可以根据任务特点灵活选择最优模型",
+    "tags": ["AI", "LLM", "Claude", "Agent", "Multi-Model"]
+  },
+  {
+    "title": "LLMQuant/skills — 量化金融 AI Agent Skills",
+    "url": "https://github.com/LLMQuant/skills",
+    "source": "github_trending",
+    "summary_zh": "LLMQuant/skills 是一个面向量化金融领域可复用的 AI Agent Skills 集合，兼容 Claude Code、Cursor、Codex 等主流编码 Agent 平台。它将量化金融领域的专业知识、分析方法和最佳实践封装为 Agent 可直接调用的技能模块，帮助量化研究员和开发者更高效地利用 AI 辅助进行金融模型开发、策略回测和数据分析。",
+    "highlights": [
+      "领域专业化：将量化金融知识封装为 AI Agent 技能，降低专业领域使用门槛",
+      "跨平台兼容：同时支持 Claude Code、Cursor、Codex 等多个主流编码 Agent 平台"
+    ],
+    "score": 6,
+    "score_reason": "领域特定，对量化金融从业者有实用价值，但受众面较窄，且技能质量取决于后续社区贡献",
+    "tags": ["AI", "Agent", "Quantitative Finance", "Skills", "LLM"]
+  },
+  {
+    "title": "razr001/align-dev — AI 前端编码规范生成器",
+    "url": "https://github.com/razr001/align-dev",
+    "source": "github_trending",
+    "summary_zh": "align-dev 是一个帮助 AI 辅助前端团队生成统一编码规范和 SKILL.md 的工具。它能确保 Claude Code、Codex、Cursor 等不同 AI 编码 Agent 输出的代码风格一致，解决多 Agent 协作时代码风格混乱的问题。通过自动生成团队级编码规范文件，让 AI Agent 的输出符合团队预先定义的标准。",
+    "highlights": [
+      "统一多 Agent 输出风格：确保不同编码 Agent 遵循一致的代码规范",
+      "自动生成规范文件：从团队配置自动生成 SKILL.md 等规范文档"
+    ],
+    "score": 6,
+    "score_reason": "值得了解，对使用多个 AI 编码工具的前端团队有参考价值，但功能与 ai-rules-sync 有重叠，差异化不明显",
+    "tags": ["AI", "Frontend", "Coding Standards", "Agent", "Developer Tools"]
+  },
+  {
+    "title": "kurikomi-labs/komi-learn — AI Agent 持续记忆框架",
+    "url": "https://github.com/kurikomi-labs/komi-learn",
+    "source": "github_trending",
+    "summary_zh": "komi-learn 是一个为 AI Agent 提供持续记忆和自我改进能力的框架。它能自动学习用户的工作习惯和使用模式，并在后续会话中无缝回忆，无需用户手动提供指令或上下文。该框架解决了当前 AI Agent 每次对话都「从头开始」的核心痛点，让 Agent 能够像人类助手一样积累经验、越用越智能。",
+    "highlights": [
+      "持续记忆：跨会话自动保存和回忆用户工作习惯，无需手动管理上下文",
+      "自我改进：从历史交互中学习，Agent 的能力随时间自然增长"
+    ],
+    "score": 7,
+    "score_reason": "实用价值高，直击 AI Agent 缺乏持久记忆的核心痛点，自动化的学习机制降低了用户负担",
+    "tags": ["AI", "Agent", "Memory", "Learning", "LLM"]
+  },
+  {
+    "title": "rextanka/zero-cost-cline — 零成本本地 LLM 编码",
+    "url": "https://github.com/rextanka/zero-cost-cline",
+    "source": "github_trending",
+    "summary_zh": "zero-cost-cline 项目演示了如何在 Apple Silicon（M 系列芯片）Mac 上搭建一套完全本地、私有的 LLM 编码工作流。基于 Ollama 运行本地模型，结合 Cline（VS Code 的 AI 编码插件）实现无需付费订阅的 Agentic 开发环境。所有推理在本地完成，无需网络连接，数据不外泄，适合对隐私敏感或希望降低 AI 编码成本的开发者。",
+    "highlights": [
+      "零成本方案：基于免费开源工具搭建，无需任何 API 订阅费用",
+      "完全本地运行：所有 LLM 推理在 Apple Silicon 设备上本地完成，数据零外泄"
+    ],
+    "score": 7,
+    "score_reason": "实用价值高，为希望在本地使用 AI 编码又不愿付费的开发者提供了清晰的搭建指南，但性能受限于本地硬件",
+    "tags": ["AI", "LLM", "Local", "Ollama", "Apple Silicon"]
+  },
+  {
+    "title": "zhnt/loushang — AI 原生编码编排平台",
+    "url": "https://github.com/zhnt/loushang",
+    "source": "github_trending",
+    "summary_zh": "loushang（楼尚）是一个统一的 AI 原生编码编排平台，提供多模型 Agent 运行时环境。核心能力包括有状态会话管理（Agent 能在多轮交互中保持上下文）、工具治理（对 Agent 可调用的工具进行精细化管控）和可追踪交付（记录每次代码变更的来源和决策过程）。旨在为企业级 AI 编码协作提供标准化的编排基础设施。",
+    "highlights": [
+      "多模型 Agent 运行时：统一管理多种 LLM 模型的调用和编排",
+      "有状态会话 + 工具治理：支持跨轮次上下文保持和精细化工具权限管控"
+    ],
+    "score": 6,
+    "score_reason": "值得了解，概念上整合了 AI 编码编排的关键要素，但项目尚处早期阶段（43 stars），实际成熟度有待验证",
+    "tags": ["AI", "Agent", "Multi-Model", "Orchestration", "Runtime"]
+  }
+]

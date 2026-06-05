@@ -1,0 +1,111 @@
+{
+  "source": "github_trending",
+  "skill": "github-trending",
+  "collected_at": "2026-06-05T14:30:00Z",
+  "items": [
+    {
+      "name": "tastyeffectco/sandboxes",
+      "url": "https://github.com/tastyeffectco/sandboxes",
+      "summary": "Sandboxes 是一个自托管开发沙箱工具，为 AI 编码 Agent 提供一键式预览环境，无需 Kubernetes，因专注简化 Agent 开发部署流程而受到关注。",
+      "stars": 421,
+      "language": "Go",
+      "topics": ["ai", "ai-agent", "sandbox", "self-hosted", "docker"]
+    },
+    {
+      "name": "Soul-AILab/SoulX-Transcriber",
+      "url": "https://github.com/Soul-AILab/SoulX-Transcriber",
+      "summary": "SoulX-Transcriber 是一个端到端多说话人语音转写框架，联合建模说话人、时间和内容，为 LLM 驱动的语音理解提供了新思路。",
+      "stars": 182,
+      "language": "Python",
+      "topics": ["asr", "llm", "speech-recognition"]
+    },
+    {
+      "name": "couragec/LLMInternSkill",
+      "url": "https://github.com/couragec/LLMInternSkill",
+      "summary": "LLMInternSkill 是大模型实习简历与求职工具箱，作为 Codex Skill 提供简历润色、JD 匹配和面试准备功能，专为 AI 求职场景设计。",
+      "stars": 117,
+      "language": "Markdown",
+      "topics": ["llm", "agent", "codex-skill", "resume", "interview-prep"]
+    },
+    {
+      "name": "AtomFlow-AI/MoleCode",
+      "url": "https://github.com/AtomFlow-AI/MoleCode",
+      "summary": "MoleCode 将分子结构表示为代码，使 LLM 能够直接理解和操作化学分子，为 AI for Science 领域提供了全新的分子建模范式。",
+      "stars": 104,
+      "language": "Python",
+      "topics": ["llm", "chemistry", "ai-for-science", "molecular-modeling", "ai-agent"]
+    },
+    {
+      "name": "AI272/speaker",
+      "url": "https://github.com/AI272/speaker",
+      "summary": "Speaker 是学术演讲 Codex Skill，可从 PPTX 文件中提取文本并生成逐页演讲备注，大幅提升学术报告准备效率。",
+      "stars": 63,
+      "language": "Python",
+      "topics": ["ai", "claude-code", "codex", "codex-skill", "skill"]
+    },
+    {
+      "name": "agent0ai/dox",
+      "url": "https://github.com/agent0ai/dox",
+      "summary": "Dox 是自文档化的 AGENTS.md 工具，自动生成和维护 AI Agent 的规则文档，简化 Agent 配置文件管理流程。",
+      "stars": 38,
+      "language": "Markdown",
+      "topics": ["agents-md", "ai", "ai-agents", "documentation"]
+    },
+    {
+      "name": "KhanCold/spader",
+      "url": "https://github.com/KhanCold/spader",
+      "summary": "Spader 是一个基于强化学习的工具增强型多答案问答框架，通过逐步同伴优势和多样性探索奖励提升 LLM 推理能力。",
+      "stars": 38,
+      "language": "Python",
+      "topics": ["agent", "reinforcement-learning"]
+    },
+    {
+      "name": "Adityapal67/context-graph-compressor",
+      "url": "https://github.com/Adityapal67/context-graph-compressor",
+      "summary": "context-graph-compressor 将长 AI 对话转化为可移植状态图，支持 LLM 间的上下文交接，为多轮 Agent 协作提供高效的上下文压缩方案。",
+      "stars": 29,
+      "language": "Markdown",
+      "topics": ["agent", "ai", "context-compression", "llm", "prompt-engineering"]
+    },
+    {
+      "name": "DJLougen/hive",
+      "url": "https://github.com/DJLougen/hive",
+      "summary": "Hive 是统一 Agent 记忆与上下文压缩栈，针对 NVIDIA GPU 和边缘设备优化，实现更好的每 token 推理效率。",
+      "stars": 28,
+      "language": "Python",
+      "topics": ["agent", "llm", "memory", "context-compression", "edge-ai"]
+    },
+    {
+      "name": "Wholiver/Math.Skill",
+      "url": "https://github.com/Wholiver/Math.Skill",
+      "summary": "Math.Skill 是一个全面的数学推理 AI Skill，覆盖从基础算术到研究级数学问题求解，并带有严格的验证机制。",
+      "stars": 21,
+      "language": "Markdown",
+      "topics": ["agent", "math", "claude-skills", "skill", "mathematics"]
+    },
+    {
+      "name": "yibo365/agent-camp",
+      "url": "https://github.com/yibo365/agent-camp",
+      "summary": "Agent Camp 是 AI Agent 面试知识库，覆盖 LLM、Prompt、RAG、MCP、Multi-Agent、LangGraph 等方向，为 Agent 工程师提供系统化学习路径。",
+      "stars": 12,
+      "language": "CSS",
+      "topics": ["agent", "agent-engineering", "prompt-engineering"]
+    },
+    {
+      "name": "nafizb/agent-vibes-cursor",
+      "url": "https://github.com/nafizb/agent-vibes-cursor",
+      "summary": "Agent Vibes 将 Cursor AI Agent 的工作过程实时转化为生成式音乐，为开发者提供沉浸式编码体验，是 AI 与创意结合的趣味项目。",
+      "stars": 12,
+      "language": "TypeScript",
+      "topics": ["agent", "cursor", "productivity", "visualization"]
+    },
+    {
+      "name": "XWJDream/MimoAgent",
+      "url": "https://github.com/XWJDream/MimoAgent",
+      "summary": "MimoAgent 是基于小米 MiMo 模型的 AI 编程助手桌面应用，支持代码生成、调试、重构、MCP 工具和 TTS。",
+      "stars": 8,
+      "language": "TypeScript",
+      "topics": ["agent", "ai", "mcp", "coding"]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "github-20260604-010",
+  "title": "zhnt/loushang — AI 原生编码编排平台",
+  "source_url": "https://github.com/zhnt/loushang",
+  "source_type": "github_trending",
+  "summary": "loushang（楼尚）是一个统一的 AI 原生编码编排平台，提供多模型 Agent 运行时环境。核心能力包括有状态会话管理（Agent 能在多轮交互中保持上下文）、工具治理（对 Agent 可调用的工具进行精细化管控）和可追踪交付（记录每次代码变更的来源和决策过程）。旨在为企业级 AI 编码协作提供标准化的编排基础设施。",
+  "tags": [
+    "AI",
+    "Agent",
+    "Multi-Model",
+    "Orchestration"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-04T12:00:00Z",
+  "published_at": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "github-20260604-002",
+  "title": "ethanhq/cc-fleet — Claude Code 多模型接入桥",
+  "source_url": "https://github.com/ethanhq/cc-fleet",
+  "source_type": "github_trending",
+  "summary": "cc-fleet 是一个让 Claude Code 接入第三方模型（如 DeepSeek、GLM、Qwen 等）的桥梁工具。通过将外部模型作为原生 Agent Team 成员或一次性 subagent 使用，突破了 Claude Code 对 Anthropic 模型的绑定限制。用户可以在 Claude Code 的工作流中灵活调用不同模型处理不同任务，发挥各模型的优势。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Agent",
+    "Multi-Model"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-04T12:00:00Z",
+  "published_at": null
+}

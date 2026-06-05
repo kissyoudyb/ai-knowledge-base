@@ -1,0 +1,17 @@
+{
+  "id": "github-20260604-001",
+  "title": "duncatzat/vigils — AI Agent 本地控制面板",
+  "source_url": "https://github.com/duncatzat/vigils",
+  "source_type": "github_trending",
+  "summary": "Vigils 是一个本地优先的 AI Agent 控制平面，位于 Agent 与其所调用的工具/数据之间，提供监控、审批、脱敏和沙箱执行四大安全保障。基于 Rust + Tauri 2 构建，核心功能包括：SHA-256 哈希链防篡改审计账本、默认拒绝的防火墙策略引擎、人机协同审批队列、支持 13+ 种凭证类型的秘密/隐私脱敏引擎、短期密钥租赁代理、Wasm 及原生进程沙箱执行器。",
+  "tags": [
+    "AI",
+    "Agent",
+    "Security",
+    "MCP"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-04T12:00:00Z",
+  "published_at": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "github-20260604-004",
+  "title": "kurikomi-labs/komi-learn — AI Agent 持续记忆框架",
+  "source_url": "https://github.com/kurikomi-labs/komi-learn",
+  "source_type": "github_trending",
+  "summary": "komi-learn 是一个为 AI Agent 提供持续记忆和自我改进能力的框架。它能自动学习用户的工作习惯和使用模式，并在后续会话中无缝回忆，无需用户手动提供指令或上下文。该框架解决了当前 AI Agent 每次对话都「从头开始」的核心痛点，让 Agent 能够像人类助手一样积累经验、越用越智能。",
+  "tags": [
+    "AI",
+    "Agent",
+    "Memory",
+    "LLM"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-04T12:00:00Z",
+  "published_at": null
+}

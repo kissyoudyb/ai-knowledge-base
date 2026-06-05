@@ -1,0 +1,17 @@
+{
+  "id": "github-20260604-009",
+  "title": "rextanka/zero-cost-cline — 零成本本地 LLM 编码",
+  "source_url": "https://github.com/rextanka/zero-cost-cline",
+  "source_type": "github_trending",
+  "summary": "zero-cost-cline 项目演示了如何在 Apple Silicon（M 系列芯片）Mac 上搭建一套完全本地、私有的 LLM 编码工作流。基于 Ollama 运行本地模型，结合 Cline（VS Code 的 AI 编码插件）实现无需付费订阅的 Agentic 开发环境。所有推理在本地完成，无需网络连接，数据不外泄，适合对隐私敏感或希望降低 AI 编码成本的开发者。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Local",
+    "Agent"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-04T12:00:00Z",
+  "published_at": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "github-20260604-008",
+  "title": "razr001/align-dev — AI 前端编码规范生成器",
+  "source_url": "https://github.com/razr001/align-dev",
+  "source_type": "github_trending",
+  "summary": "align-dev 是一个帮助 AI 辅助前端团队生成统一编码规范和 SKILL.md 的工具。它能确保 Claude Code、Codex、Cursor 等不同 AI 编码 Agent 输出的代码风格一致，解决多 Agent 协作时代码风格混乱的问题。通过自动生成团队级编码规范文件，让 AI Agent 的输出符合团队预先定义的标准。",
+  "tags": [
+    "AI",
+    "Frontend",
+    "Agent",
+    "Developer Tools"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-04T12:00:00Z",
+  "published_at": null
+}

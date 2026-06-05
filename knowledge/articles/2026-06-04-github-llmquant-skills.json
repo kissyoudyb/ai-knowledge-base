@@ -1,0 +1,17 @@
+{
+  "id": "github-20260604-005",
+  "title": "LLMQuant/skills — 量化金融 AI Agent Skills",
+  "source_url": "https://github.com/LLMQuant/skills",
+  "source_type": "github_trending",
+  "summary": "LLMQuant/skills 是一个面向量化金融领域可复用的 AI Agent Skills 集合，兼容 Claude Code、Cursor、Codex 等主流编码 Agent 平台。它将量化金融领域的专业知识、分析方法和最佳实践封装为 Agent 可直接调用的技能模块，帮助量化研究员和开发者更高效地利用 AI 辅助进行金融模型开发、策略回测和数据分析。",
+  "tags": [
+    "AI",
+    "Agent",
+    "Quantitative Finance",
+    "LLM"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-04T12:00:00Z",
+  "published_at": null
+}
