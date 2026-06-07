@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260607-26cb247cef17",
+  "title": "Untitled",
+  "source_url": "https://www.jacquescorbytuech.com/writing/ai-needs-shame-not-taste",
+  "source_type": "hacker_news",
+  "summary": "这篇文章探讨了AI系统需要“羞耻感”而非“品味”的观点，认为当前AI缺乏对自身错误和局限性的认知，导致生成内容缺乏自我修正和道德约束。作者提出，通过引入类似人类羞耻感的机制，AI可以更好地识别不当输出，提升可靠性和社会接受度。文章从技术哲学角度反思AI伦理，强调在模型训练中融入自我评估和反馈循环的重要性。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Ethics",
+    "Framework"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-07T13:46:58.788181+00:00",
+  "published_at": "2026-06-07T11:28:23+00:00",
+  "score": 6
+}

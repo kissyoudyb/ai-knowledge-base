@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260607-66ca42131a02",
+  "title": "Untitled",
+  "source_url": "https://github.com/marketplace/bright-security-agent",
+  "source_type": "hacker_news",
+  "summary": "该条目指向 GitHub Marketplace 上的 Bright Security Agent，这是一个专注于安全领域的 AI 代理工具。它可能利用 AI 或 LLM 技术自动化安全测试、漏洞扫描或合规检查，旨在提升开发与运维中的安全效率。尽管当前社区关注度较低（仅1个点赞和1条评论），但其作为安全代理的概念具有潜在实用价值，尤其适合集成到 CI/CD 流程中。",
+  "tags": [
+    "AI",
+    "Agent",
+    "Security",
+    "Tool"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-07T13:46:58.788086+00:00",
+  "published_at": "2026-06-07T11:45:09+00:00",
+  "score": 4
+}

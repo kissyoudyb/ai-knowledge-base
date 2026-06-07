@@ -1,0 +1,17 @@
+{
+  "id": "hacker_news-20260607-0affacf20377",
+  "title": "Untitled",
+  "source_url": "https://status.sr.ht/issues/2026-06-06-llms-again/",
+  "source_type": "hacker_news",
+  "summary": "该条目指向一个状态页面，记录了2026年6月6日发生的与LLM相关的事件。页面内容可能涉及LLM服务中断、性能问题或安全事件，但具体细节未在摘要中提供。评论来自Hacker News，表明社区对此事件有一定关注。技术亮点在于LLM服务的可靠性和稳定性问题，以及其对用户和开发者的影响。",
+  "tags": [
+    "LLM",
+    "Security",
+    "Deployment"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-07T13:46:58.788399+00:00",
+  "published_at": "2026-06-07T09:19:23+00:00",
+  "score": 6
+}

@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260607-c71f7048329e",
+  "title": "Untitled",
+  "source_url": "https://www.machinebrief.com/news/ai-memory-fails-spectacularly-95percent-error-rate-unveiled-ewj0",
+  "source_type": "hacker_news",
+  "summary": "该文章报道了一项关于AI记忆系统的研究，揭示了其高达95%的错误率，表明当前AI在长期记忆和上下文保持方面存在严重缺陷。这一发现对依赖记忆的AI应用（如对话代理和个性化推荐）构成挑战，凸显了改进记忆机制和检索增强生成（RAG）技术的紧迫性。",
+  "tags": [
+    "AI",
+    "LLM",
+    "RAG",
+    "Agent"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-07T13:46:58.788379+00:00",
+  "published_at": "2026-06-07T09:29:41+00:00",
+  "score": 7
+}

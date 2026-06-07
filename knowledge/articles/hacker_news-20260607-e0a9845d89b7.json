@@ -1,0 +1,17 @@
+{
+  "id": "hacker_news-20260607-e0a9845d89b7",
+  "title": "Untitled",
+  "source_url": "https://aipalmreading.net/",
+  "source_type": "hacker_news",
+  "summary": "该条目来自Hacker News，标题为“Untitled”，描述中提供了一个名为“AI Palm Reading”的网站链接，以及对应的评论页面。该网站可能利用AI技术进行手相分析，结合计算机视觉或机器学习模型来解读手掌特征。尽管当前点数为1且无评论，但其将传统手相学与AI结合的概念具有一定新颖性，可能涉及图像识别、模式匹配等AI应用。技术亮点在于将AI应用于非传统领域，但实用价值尚待验证。",
+  "tags": [
+    "AI",
+    "Tool",
+    "Computer Vision"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-07T13:46:58.788110+00:00",
+  "published_at": "2026-06-07T11:43:45+00:00",
+  "score": 3
+}

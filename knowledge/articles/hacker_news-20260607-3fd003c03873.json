@@ -1,0 +1,19 @@
+{
+  "id": "hacker_news-20260607-3fd003c03873",
+  "title": "Untitled",
+  "source_url": "https://github.com/alexander-akhmetov/sigil-hermes",
+  "source_type": "hacker_news",
+  "summary": "Sigil Hermes 是一个开源工具，旨在通过 MCP（Model Context Protocol）协议将 Hermes AI 模型集成到各种应用中。该项目提供了一种标准化的接口，使得开发者能够轻松地将 AI 能力（如自然语言处理、推理等）嵌入到现有系统或新应用中，简化了 AI 模型的部署和交互流程。其技术亮点在于利用 MCP 协议实现模型与应用的解耦，提升了可扩展性和互操作性，适合需要快速集成 AI 功能的场景。",
+  "tags": [
+    "AI",
+    "LLM",
+    "MCP",
+    "Tool",
+    "Open Source"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-07T13:46:58.788260+00:00",
+  "published_at": "2026-06-07T10:12:45+00:00",
+  "score": 6
+}

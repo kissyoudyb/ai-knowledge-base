@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260607-5361c929eeb1",
+  "title": "Untitled",
+  "source_url": "https://mantyx.io/",
+  "source_type": "hacker_news",
+  "summary": "Mantyx 是一个基于 AI 的自动化工作流平台，旨在通过自然语言指令简化复杂任务的执行。该平台支持多步骤流程编排，集成多种工具和 API，帮助用户无需编码即可构建智能代理。其技术亮点在于将 LLM 与任务调度结合，提升自动化效率，适用于数据分析和业务流程优化。",
+  "tags": [
+    "AI",
+    "Agent",
+    "Tool",
+    "Framework"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-07T13:46:58.788205+00:00",
+  "published_at": "2026-06-07T11:12:04+00:00",
+  "score": 6
+}

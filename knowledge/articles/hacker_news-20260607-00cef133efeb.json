@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260607-00cef133efeb",
+  "title": "Untitled",
+  "source_url": "https://zozo123.github.io/how-stackoverflow-taught-ai/",
+  "source_type": "hacker_news",
+  "summary": "该条目指向一篇关于Stack Overflow如何影响AI训练的文章，探讨了社区问答数据在AI模型训练中的价值与潜在问题。文章可能分析了Stack Overflow数据对AI系统（如代码生成模型）的贡献，以及数据质量、版权和伦理挑战。由于当前只有1个点赞且无评论，社区关注度较低，但主题涉及AI训练数据来源这一关键议题，具有一定技术讨论价值。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Open Source",
+    "Tool"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-07T13:46:58.788130+00:00",
+  "published_at": "2026-06-07T11:39:41+00:00",
+  "score": 4
+}

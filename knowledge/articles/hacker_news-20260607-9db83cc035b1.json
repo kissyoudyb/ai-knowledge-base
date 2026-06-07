@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260607-9db83cc035b1",
+  "title": "Untitled",
+  "source_url": "https://local-llm.utop.workers.dev/",
+  "source_type": "hacker_news",
+  "summary": "该条目介绍了一种在消费级硬件（RTX 5090）上运行大语言模型的高效配置方案：使用Qwen 3.6 Q6量化模型，结合TurboQuant Turbo3模式的llama.cpp分支，实现450K超长上下文窗口，并支持多模态功能。作者通过AI生成的博客文章分享了实验过程与结果，强调该配置在本地硬件上的出色表现，旨在为社区提供实用参考。尽管未经过265K上下文的严格测试，但展示了消费级GPU在长上下文和多模态推理方面的潜力。",
+  "tags": [
+    "LLM",
+    "Deployment",
+    "Open Source",
+    "Tool"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-07T13:46:58.788339+00:00",
+  "published_at": "2026-06-07T09:36:02+00:00",
+  "score": 7
+}
