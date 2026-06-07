@@ -17,7 +17,7 @@ REQUIRED_FIELDS: dict[str, type] = {
 }
 
 VALID_STATUSES = {"draft", "review", "published", "archived"}
-ID_PATTERN = re.compile(r"^[a-z_]+-\d{8}-[a-f0-9]{12}$")
+ID_PATTERN = re.compile(r"^[a-z_]+-\d{8}-(?:\d{3}|[a-f0-9]{12})$")
 URL_PATTERN = re.compile(r"^https?://")
 VALID_AUDIENCES = {"beginner", "intermediate", "advanced"}
 
@@ -74,7 +74,8 @@ def validate_file(filepath: Path) -> list[str]:
         errors.append(
             _fmt(
                 "error",
-                f"'id' should match {{source}}-{{YYYYMMDD}}-{{hash}} "
+                f"'id' should match {{source}}-{{YYYYMMDD}}-{{NNN}} "
+                f"(e.g. github-20260604-001) or {{source}}-{{YYYYMMDD}}-{{hash}} "
                 f"(e.g. github_trending-20260607-0abcb8d6878d), got '{id_val}'",
             )
         )

@@ -150,7 +150,7 @@ def score_format_compliance(data: dict) -> DimensionScore:
 
     # id
     id_val = data.get("id", "")
-    if isinstance(id_val, str) and re.match(r"^[a-z_]+-\d{8}-[a-f0-9]{12}$", id_val):
+    if isinstance(id_val, str) and re.match(r"^[a-z_]+-\d{8}-(?:\d{3}|[a-f0-9]{12})$", id_val):
         points += 4
     else:
         reasons.append("id format invalid")
