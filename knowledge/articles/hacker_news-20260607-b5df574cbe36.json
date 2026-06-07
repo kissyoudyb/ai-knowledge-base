@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260607-b5df574cbe36",
+  "title": "Untitled",
+  "source_url": "https://blog.ericgoldman.org/archives/2026/06/when-can-amazon-block-an-agentic-ai-service-amazon-v-perplexity-guest-blog-post.htm",
+  "source_type": "hacker_news",
+  "summary": "本文讨论了亚马逊在何种情况下可以阻止AI代理服务（如Perplexity）访问其平台，分析了法律和技术层面的边界问题。文章指出，随着AI代理技术的普及，平台与AI服务之间的访问权限争议日益突出，涉及合同条款、反竞争行为以及自动化数据抓取的合法性。该分析对理解AI代理在商业环境中的合规性和技术挑战具有参考价值。",
+  "tags": [
+    "AI",
+    "Agent",
+    "Security",
+    "Tool"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-07T03:16:09.703075+00:00",
+  "published_at": "2026-06-07T01:17:47+00:00",
+  "score": 6
+}

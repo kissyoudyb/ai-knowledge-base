@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260607-ee1629e831af",
+  "title": "Untitled",
+  "source_url": "https://minimal-agent.com/",
+  "source_type": "hacker_news",
+  "summary": "该条目指向一个名为 Minimal Agent 的网站，可能是一个轻量级 AI Agent 框架或工具。Hacker News 上的讨论较少（3 分，1 条评论），但链接本身暗示了 Agent 技术的最新实践。该工具可能专注于简化 Agent 的构建与部署，强调最小化配置和高效运行，适合快速原型开发或生产环境中的轻量级 Agent 应用。",
+  "tags": [
+    "AI",
+    "Agent",
+    "Framework",
+    "Tool"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-07T03:16:09.702985+00:00",
+  "published_at": "2026-06-07T02:35:25+00:00",
+  "score": 5
+}

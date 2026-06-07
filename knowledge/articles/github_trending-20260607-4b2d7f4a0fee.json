@@ -1,0 +1,19 @@
+{
+  "id": "github_trending-20260607-4b2d7f4a0fee",
+  "title": "lm-sys/FastChat",
+  "source_url": "https://github.com/lm-sys/FastChat",
+  "source_type": "github_trending",
+  "summary": "FastChat 是一个开源平台，专注于大型语言模型的训练、部署和评估。它作为 Vicuna 和 Chatbot Arena 的发布仓库，提供了高效的工具链，支持模型微调、推理服务以及性能对比。该平台简化了 LLM 的落地流程，尤其适合研究者和开发者快速实验和部署对话式 AI 模型，具有较高的实用价值和社区影响力。",
+  "tags": [
+    "LLM",
+    "Open Source",
+    "Framework",
+    "Deployment",
+    "Fine-tuning"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-07T03:16:09.702739+00:00",
+  "published_at": null,
+  "score": 8
+}

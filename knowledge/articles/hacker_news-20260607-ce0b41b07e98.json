@@ -1,0 +1,17 @@
+{
+  "id": "hacker_news-20260607-ce0b41b07e98",
+  "title": "Untitled",
+  "source_url": "https://persist.chat",
+  "source_type": "hacker_news",
+  "summary": "Persist.chat 是一款 AI 销售代理工具，能够自动向潜在客户发送个性化邮件或短信，并通过持续跟进循环提高转化率。它支持用户导入自有客户列表（邮箱、电话、LinkedIn/X 账号），也可利用平台内置的 LinkedIn 和邮件列表寻找新客户。该工具可配置多步骤序列，每次发送不同状态感知的消息，避免被标记为垃圾邮件。早期访问用户可免费使用，旨在帮助 SaaS 产品从零到一获取销售线索，替代高成本广告投放。",
+  "tags": [
+    "AI",
+    "Agent",
+    "Tool"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-07T03:16:09.703120+00:00",
+  "published_at": "2026-06-07T00:35:01+00:00",
+  "score": 6
+}

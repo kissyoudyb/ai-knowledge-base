@@ -319,6 +319,18 @@ def estimate_tokens(text: str) -> int:
 # ──────────────────────────────────────────────
 
 
+def create_provider(provider_name: Optional[str] = None) -> OpenAICompatibleProvider:
+    """创建 LLM 提供商客户端实例（公开别名）。
+
+    Args:
+        provider_name: 提供商名称，默认读取 LLM_PROVIDER 环境变量。
+
+    Returns:
+        OpenAICompatibleProvider: LLM 客户端实例。
+    """
+    return _build_provider(provider_name)
+
+
 def _build_provider(provider_name: Optional[str] = None) -> OpenAICompatibleProvider:
     """根据提供商名称创建 LLMProvider 实例。
 
