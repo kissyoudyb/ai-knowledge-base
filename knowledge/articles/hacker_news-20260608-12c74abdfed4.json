@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260608-12c74abdfed4",
+  "title": "Untitled",
+  "source_url": "https://github.com/jasonlovesdoggo/caddy-defender",
+  "source_type": "hacker_news",
+  "summary": "该项目是一个名为 Caddy Defender 的 Caddy 服务器中间件，旨在增强 Web 服务器的安全性。它通过集成多种防护机制（如 IP 黑名单、速率限制、恶意请求检测等）来防御常见的网络攻击，如 DDoS、爬虫和暴力破解。该工具易于配置，可直接作为 Caddy 插件使用，为部署在 Caddy 上的应用提供轻量级的安全层。其开源特性允许社区贡献和定制，适合需要快速加固 Web 服务的开发者。",
+  "tags": [
+    "Security",
+    "Open Source",
+    "Tool",
+    "Deployment"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-08T12:27:11.649791+00:00",
+  "published_at": "2026-06-08T11:52:07+00:00",
+  "score": 6
+}

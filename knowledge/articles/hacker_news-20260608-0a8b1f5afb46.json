@@ -1,0 +1,19 @@
+{
+  "id": "hacker_news-20260608-0a8b1f5afb46",
+  "title": "Untitled",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok",
+  "source_type": "hacker_news",
+  "summary": "本文讨论了在AI生成内容泛滥的背景下，用户和平台如何应对“AI垃圾内容”（AI slop）的问题。文章指出，谷歌、YouTube、Meta、Instagram和TikTok等主流平台正面临大量低质量、由AI自动生成的内容，这些内容污染了搜索结果和用户信息流。作者呼吁平台加强内容过滤机制，开发更有效的检测工具，并鼓励用户主动举报和屏蔽此类内容。文章强调了维护信息生态健康的重要性，并提出了技术和社会层面的应对策略。",
+  "tags": [
+    "AI",
+    "Content Moderation",
+    "Platform",
+    "Security",
+    "Tool"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-08T12:27:11.650133+00:00",
+  "published_at": "2026-06-08T10:55:21+00:00",
+  "score": 7
+}

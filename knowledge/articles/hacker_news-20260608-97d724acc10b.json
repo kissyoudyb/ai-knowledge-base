@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260608-97d724acc10b",
+  "title": "Untitled",
+  "source_url": "https://github.com/udit-rawat/RepoSignal",
+  "source_type": "hacker_news",
+  "summary": "该项目 RepoSignal 是一个开源工具，旨在通过分析 GitHub 仓库的提交、问题、讨论等信号，帮助开发者监控和了解开源项目的健康状态与活跃度。它利用 AI 技术（如 LLM）对仓库活动进行智能摘要和趋势分析，提升项目管理效率。该工具适用于维护者、贡献者和社区管理者，具有较高的实用价值。",
+  "tags": [
+    "Open Source",
+    "Tool",
+    "AI",
+    "LLM"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-08T12:27:11.649727+00:00",
+  "published_at": "2026-06-08T11:59:07+00:00",
+  "score": 7
+}

@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260608-9f68ad5bb2b7",
+  "title": "Untitled",
+  "source_url": "https://blog.neurips.cc/2026/06/02/ai-generated-papers-in-the-neurips-2026-position-paper-track/",
+  "source_type": "hacker_news",
+  "summary": "该条目指向一篇关于 NeurIPS 2026 立场论文征稿的博客文章，主题是“AI 生成的论文”。文章讨论了在顶级学术会议中，AI 自动生成论文的兴起及其对学术评审、原创性和伦理的挑战。虽然标题为“Untitled”，但内容聚焦于 AI 在学术写作中的应用与争议，反映了 AI 技术对科研生态的深远影响。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Security",
+    "Tool"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-08T12:27:11.650213+00:00",
+  "published_at": "2026-06-08T10:45:03+00:00",
+  "score": 6
+}

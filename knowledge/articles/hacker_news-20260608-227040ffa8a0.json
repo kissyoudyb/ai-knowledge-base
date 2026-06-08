@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260608-227040ffa8a0",
+  "title": "Untitled",
+  "source_url": "https://news.ycombinator.com/item?id=48444025",
+  "source_type": "hacker_news",
+  "summary": "Lite Agent 是一个面向非技术人员的 AI 代理平台，旨在让不擅长编程的 90% 技术行业从业者也能轻松使用 AI 代理。它通过简化技术门槛，让用户专注于处理人际交互等更擅长的领域，从而提升工作效率。该平台可能提供低代码或无代码的界面，帮助用户快速构建和部署 AI 代理，无需深入编程知识。",
+  "tags": [
+    "AI",
+    "Agent",
+    "Tool",
+    "Deployment"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-08T12:27:11.649981+00:00",
+  "published_at": "2026-06-08T11:32:24+00:00",
+  "score": 6
+}

@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260608-82a23c556c52",
+  "title": "Untitled",
+  "source_url": "https://unu.edu/inweh/collection/environmental-cost-of-AIs-Enrgy-Use-Carbon-water-and-land-footprints",
+  "source_type": "hacker_news",
+  "summary": "该条目讨论了人工智能在能源使用、碳排放、水资源和土地占用方面的环境成本。文章来自联合国大学（UNU）的水与环境健康研究所，分析了AI技术（尤其是大型模型）对环境的综合影响，包括高能耗导致的碳足迹、冷却用水消耗以及数据中心占地问题。内容强调在AI快速发展中需关注可持续性，并提出了减少环境足迹的潜在方向。",
+  "tags": [
+    "AI",
+    "Energy",
+    "Carbon Footprint",
+    "Sustainability"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-08T12:27:11.649684+00:00",
+  "published_at": "2026-06-08T12:07:35+00:00",
+  "score": 6
+}

@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260608-728ab5743516",
+  "title": "Untitled",
+  "source_url": "https://news.ycombinator.com/item?id=48444008",
+  "source_type": "hacker_news",
+  "summary": "该条目来自Hacker News，讨论如何在优化云服务或AI模型成本的同时，不牺牲太多质量。用户寻求平衡成本与性能的策略，可能涉及模型选择、推理优化、缓存或混合使用不同服务。社区关注点在于实际工程中的成本控制技巧，而非纯理论。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Deployment",
+    "Tool"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-08T12:27:11.650013+00:00",
+  "published_at": "2026-06-08T11:30:39+00:00",
+  "score": 4
+}

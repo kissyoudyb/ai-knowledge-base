@@ -1,0 +1,17 @@
+{
+  "id": "hacker_news-20260608-6997ea15f452",
+  "title": "Untitled",
+  "source_url": "https://www.aol.com/news/majority-us-ai-datacenters-built-110023869.html",
+  "source_type": "hacker_news",
+  "summary": "该条目报道了美国大部分AI数据中心建设情况，可能涉及基础设施部署、能源消耗或政策影响。文章来自AOL新闻，在Hacker News上引发讨论，但评论数为0，点数为2，表明社区关注度较低。技术亮点在于AI数据中心作为支撑大模型训练和推理的关键基础设施，其建设规模反映了AI产业的快速发展。",
+  "tags": [
+    "AI",
+    "Deployment",
+    "Infrastructure"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-08T12:27:11.649836+00:00",
+  "published_at": "2026-06-08T11:51:57+00:00",
+  "score": 3
+}

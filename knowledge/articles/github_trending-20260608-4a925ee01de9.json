@@ -1,0 +1,18 @@
+{
+  "id": "github_trending-20260608-4a925ee01de9",
+  "title": "yamadashy/repomix",
+  "source_url": "https://github.com/yamadashy/repomix",
+  "source_type": "github_trending",
+  "summary": "Repomix 是一款将整个代码仓库打包成单个 AI 友好文件的工具，专为向大型语言模型（如 ChatGPT、Claude、DeepSeek 等）提供代码库而设计。它简化了将代码上下文输入 AI 的过程，支持多种 LLM 和 AI 工具，显著提升了开发者在代码审查、文档生成和调试等场景中的效率。该工具开源且易于使用，是连接代码库与 AI 模型的重要桥梁。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Tool",
+    "Open Source"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-08T12:27:11.649359+00:00",
+  "published_at": null,
+  "score": 8
+}

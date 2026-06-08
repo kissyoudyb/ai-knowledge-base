@@ -1,0 +1,17 @@
+{
+  "id": "hacker_news-20260608-536f218f54c3",
+  "title": "Untitled",
+  "source_url": "https://addyosmani.com/blog/intent-debt/",
+  "source_type": "hacker_news",
+  "summary": "本文讨论了技术债务的一种特殊形式——意图债务（Intent Debt），指在软件开发中，由于缺乏清晰的意图或设计目标，导致代码难以理解、维护和演进。作者通过具体案例分析了意图债务的成因、影响以及如何通过更好的文档、代码注释和设计文档来减少这种债务。文章强调了明确意图对于长期项目健康的重要性，并提供了实用的建议来帮助团队避免积累意图债务。",
+  "tags": [
+    "Tool",
+    "Framework",
+    "Deployment"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-08T12:27:11.649610+00:00",
+  "published_at": "2026-06-08T12:17:15+00:00",
+  "score": 7
+}

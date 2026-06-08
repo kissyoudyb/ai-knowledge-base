@@ -1,0 +1,19 @@
+{
+  "id": "hacker_news-20260608-e45fb086799a",
+  "title": "Untitled",
+  "source_url": "https://www.ruxu.dev/articles/ai/build-an-ai-agent-planning/",
+  "source_type": "hacker_news",
+  "summary": "本文介绍如何构建一个AI Agent规划系统，详细阐述了Agent的规划机制、任务分解与执行流程。文章通过实际案例展示了如何利用LLM实现自主规划与决策，强调了规划在提升Agent效率和准确性中的关键作用。技术亮点包括动态任务调度、上下文感知以及错误恢复策略，为开发者提供了实用的实现指南。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Agent",
+    "Framework",
+    "Tool"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-08T12:27:11.649493+00:00",
+  "published_at": "2026-06-08T12:23:32+00:00",
+  "score": 7
+}
