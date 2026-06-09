@@ -1,0 +1,19 @@
+{
+  "id": "hacker_news-20260609-9ba1119ded67",
+  "title": "Untitled",
+  "source_url": "https://ziraph.com/blog/apple-on-device-ai-wwdc-2026",
+  "source_type": "hacker_news",
+  "summary": "该条目讨论苹果在WWDC 2026上可能推出的设备端AI技术。文章预测苹果将重点发展本地化AI处理，以减少对云端的依赖，提升隐私保护和响应速度。技术亮点包括在iPhone、iPad和Mac上直接运行更复杂的AI模型，可能涉及小型化LLM和专用神经网络处理器。这标志着苹果在AI部署策略上的重要转变，强调边缘计算和用户数据安全。社区关注度较低（仅2分和1条评论），但技术方向具有前瞻性。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Deployment",
+    "Security",
+    "Framework"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-09T10:58:31.322687+00:00",
+  "published_at": "2026-06-09T08:16:05+00:00",
+  "score": 6
+}

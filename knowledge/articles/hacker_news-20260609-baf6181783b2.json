@@ -1,0 +1,17 @@
+{
+  "id": "hacker_news-20260609-baf6181783b2",
+  "title": "Untitled",
+  "source_url": "https://www.nextplatform.com/ai/2026/06/05/chip-capacity-constraints-put-a-governor-on-ai-spending-growth/5251474",
+  "source_type": "hacker_news",
+  "summary": "文章讨论了芯片产能限制如何成为AI支出增长的“调节器”。随着AI模型规模不断扩大，对高性能芯片的需求激增，但全球芯片制造能力有限，导致供应紧张和成本上升。这种约束可能迫使企业优化AI投资，优先考虑效率而非单纯扩大规模，从而影响整个AI行业的支出增长轨迹。文章强调了硬件瓶颈对AI发展的现实制约。",
+  "tags": [
+    "AI",
+    "Deployment",
+    "Hardware"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-09T10:58:31.322758+00:00",
+  "published_at": "2026-06-09T08:00:47+00:00",
+  "score": 7
+}

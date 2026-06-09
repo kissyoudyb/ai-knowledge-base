@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260609-a8a388377a48",
+  "title": "Untitled",
+  "source_url": "https://julienreszka.com/blog/stop-pasting-files-into-agent-prompts/",
+  "source_type": "hacker_news",
+  "summary": "该文章探讨了在AI代理提示中直接粘贴文件的低效问题，提出了一种更优的方法：通过结构化数据引用或工具调用（如文件路径、API接口）来替代直接粘贴，以减少上下文长度、提升代理处理效率和准确性。文章强调了代理与外部数据源交互的最佳实践，具有实用价值。",
+  "tags": [
+    "AI",
+    "Agent",
+    "Tool",
+    "LLM"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-09T10:58:31.322517+00:00",
+  "published_at": "2026-06-09T09:50:09+00:00",
+  "score": 6
+}

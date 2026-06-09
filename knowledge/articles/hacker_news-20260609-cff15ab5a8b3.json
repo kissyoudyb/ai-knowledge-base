@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260609-cff15ab5a8b3",
+  "title": "Untitled",
+  "source_url": "https://github.com/borhen68/TokenTamer",
+  "source_type": "hacker_news",
+  "summary": "TokenTamer 是一个开源工具，旨在帮助用户管理和优化 AI 模型中的 token 使用，减少不必要的 token 消耗，从而降低 API 调用成本并提升效率。该工具可能提供 token 计数、压缩或预算控制功能，适用于 LLM 应用开发中的成本优化场景。项目在 Hacker News 上获得初步关注，但社区讨论较少。",
+  "tags": [
+    "LLM",
+    "Tool",
+    "Open Source",
+    "Cost Optimization"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-09T10:58:31.322574+00:00",
+  "published_at": "2026-06-09T09:17:40+00:00",
+  "score": 4
+}

@@ -1,0 +1,17 @@
+{
+  "id": "hacker_news-20260609-2440adb926b1",
+  "title": "Untitled",
+  "source_url": "https://gizmodo.com/apple-intelligence-can-change-your-passwords-for-you-when-you-get-hacked-2000769041",
+  "source_type": "hacker_news",
+  "summary": "文章报道了苹果公司推出的一项新功能：当用户账户被黑客入侵时，苹果智能系统（Apple Intelligence）能够自动为用户更改密码。这一功能旨在提升用户账户安全性，减少因密码泄露导致的损失。技术亮点在于将AI与安全防护深度结合，实现自动化响应，体现了AI在个人数据保护中的实用价值。",
+  "tags": [
+    "AI",
+    "Security",
+    "Tool"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-09T10:58:31.322397+00:00",
+  "published_at": "2026-06-09T10:40:35+00:00",
+  "score": 7
+}

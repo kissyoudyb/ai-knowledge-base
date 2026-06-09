@@ -1,0 +1,17 @@
+{
+  "id": "hacker_news-20260609-939d21726ecf",
+  "title": "Untitled",
+  "source_url": "https://usecycle.co/blog/zero-reconcilation-for-invoices",
+  "source_type": "hacker_news",
+  "summary": "本文介绍了一种名为“零对账”的发票处理技术，旨在通过自动化流程消除传统发票对账中的手动核对工作。文章可能探讨了如何利用AI或规则引擎实现发票数据与支付记录的自动匹配，减少错误和人力成本。该技术对财务自动化领域具有实用价值，尤其适用于企业资源规划（ERP）系统集成。",
+  "tags": [
+    "AI",
+    "Tool",
+    "Deployment"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-09T10:58:31.322430+00:00",
+  "published_at": "2026-06-09T10:29:11+00:00",
+  "score": 5
+}

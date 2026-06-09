@@ -1,0 +1,17 @@
+{
+  "id": "hacker_news-20260609-e55d3d770ba4",
+  "title": "Untitled",
+  "source_url": "https://www.knowcast.app/en",
+  "source_type": "hacker_news",
+  "summary": "Knowcast 是一款利用 AI 技术将抽象概念转化为解释性视频的工具。它首先对概念进行具体分析，然后生成故事板，再基于故事板生成一系列故事图像，最后将这些图像合成为视频。该工具旨在简化、便捷并加速解释性视频的创作过程，降低了视频制作的门槛，适合教育、产品介绍等场景。",
+  "tags": [
+    "AI",
+    "Tool",
+    "Framework"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-09T10:58:31.322734+00:00",
+  "published_at": "2026-06-09T08:00:47+00:00",
+  "score": 7
+}

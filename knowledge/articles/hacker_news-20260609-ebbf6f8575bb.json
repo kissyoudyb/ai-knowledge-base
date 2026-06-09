@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260609-ebbf6f8575bb",
+  "title": "Untitled",
+  "source_url": "https://www.infoworld.com/article/4182692/meet-hades-the-malware-that-lies-to-ai-security-agents.html",
+  "source_type": "hacker_news",
+  "summary": "本文介绍了一种名为 Hades 的新型恶意软件，它能够针对 AI 安全代理进行欺骗，通过向安全系统发送虚假信息来隐藏其恶意活动。Hades 利用 AI 安全代理的信任机制，伪造正常行为模式，从而绕过检测。该技术展示了 AI 安全领域面临的新挑战，即恶意软件如何利用 AI 系统的弱点进行攻击，凸显了加强 AI 安全防护的紧迫性。",
+  "tags": [
+    "AI",
+    "Security",
+    "Malware",
+    "Agent"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-09T10:58:31.322368+00:00",
+  "published_at": "2026-06-09T10:41:14+00:00",
+  "score": 7
+}

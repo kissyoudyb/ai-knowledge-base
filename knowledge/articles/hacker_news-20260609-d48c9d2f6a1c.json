@@ -1,0 +1,17 @@
+{
+  "id": "hacker_news-20260609-d48c9d2f6a1c",
+  "title": "Untitled",
+  "source_url": "https://mmc.vc/research/ai-x-techbio-featuring-the-future-of-drug-discovery/",
+  "source_type": "hacker_news",
+  "summary": "本文介绍了AI与生物技术（TechBio）在药物发现领域的融合前景，重点分析了AI如何加速靶点识别、分子设计和临床试验优化。文章指出，AI技术能够显著降低药物研发成本和时间，同时提高成功率，并探讨了多模态数据整合和生成式模型在药物开发中的具体应用案例。",
+  "tags": [
+    "AI",
+    "Tool",
+    "Framework"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-09T10:58:31.322445+00:00",
+  "published_at": "2026-06-09T10:26:43+00:00",
+  "score": 7
+}
