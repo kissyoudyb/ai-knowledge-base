@@ -1,0 +1,19 @@
+{
+  "id": "github_trending-20260610-80ae26cd647d",
+  "title": "xtekky/gpt4free",
+  "source_url": "https://github.com/xtekky/gpt4free",
+  "source_type": "github_trending",
+  "summary": "xtekky/gpt4free 是一个开源项目，旨在免费提供多种强大语言模型的访问接口，包括 GPT-4、GPT-5、Kimi、DeepSeek、Gemini 等。该项目通过逆向工程或第三方 API 集成，使用户无需付费即可体验前沿大模型能力。其技术亮点在于聚合了多个闭源和开源模型，降低了使用门槛，适合开发者和研究者进行实验、对比和快速原型开发。社区关注度极高，是 GitHub 趋势项目，但需注意其合规性和稳定性风险。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Open Source",
+    "Tool",
+    "Deployment"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-10T11:36:58.838588+00:00",
+  "published_at": null,
+  "score": 8
+}

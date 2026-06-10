@@ -1,0 +1,18 @@
+{
+  "id": "github_trending-20260610-d831938b547e",
+  "title": "sgl-project/sglang",
+  "source_url": "https://github.com/sgl-project/sglang",
+  "source_type": "github_trending",
+  "summary": "SGLang 是一个高性能的大语言模型和多模态模型服务框架，专注于提升推理效率和降低延迟。它通过创新的调度算法和内存管理，支持多种模型架构，并提供了灵活的部署选项。该项目在 GitHub 上获得高度关注，因其在模型服务领域的显著性能优化和易用性，成为 AI 部署的重要工具。",
+  "tags": [
+    "LLM",
+    "Framework",
+    "Deployment",
+    "Open Source"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-10T11:36:58.838633+00:00",
+  "published_at": null,
+  "score": 9
+}
