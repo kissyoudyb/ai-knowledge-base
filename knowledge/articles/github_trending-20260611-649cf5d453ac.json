@@ -1,0 +1,19 @@
+{
+  "id": "github_trending-20260611-649cf5d453ac",
+  "title": "openai/gpt-oss",
+  "source_url": "https://github.com/openai/gpt-oss",
+  "source_type": "github_trending",
+  "summary": "OpenAI 发布了两个开源权重语言模型 gpt-oss-120b 和 gpt-oss-20b，分别拥有 1200 亿和 200 亿参数。这是 OpenAI 在开源领域的重要举措，旨在推动大语言模型的开放研究和应用。模型权重公开，允许开发者进行微调和部署，具有较高的实用价值。此举可能引发社区对模型性能、安全性和可复现性的广泛讨论，标志着 OpenAI 在开放性与商业化之间的新平衡。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Open Source",
+    "Fine-tuning",
+    "Deployment"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-11T12:08:13.835457+00:00",
+  "published_at": null,
+  "score": 8
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github_trending-20260611-0abcb8d6878d",
+  "title": "mlabonne/llm-course",
+  "source_url": "https://github.com/mlabonne/llm-course",
+  "source_type": "github_trending",
+  "summary": "mlabonne/llm-course 是一个专注于大型语言模型（LLM）的学习资源库，提供从入门到进阶的路线图、Colab 笔记本和实战教程。内容涵盖 LLM 基础、微调、部署、RAG 及 Agent 等核心主题，适合开发者快速上手并实践。该项目在 GitHub 上受到广泛关注，具有较高的实用价值和社区活跃度。",
+  "tags": [
+    "LLM",
+    "Fine-tuning",
+    "RAG",
+    "Agent",
+    "Open Source"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-11T12:08:13.835317+00:00",
+  "published_at": null,
+  "score": 8
+}

@@ -1,0 +1,17 @@
+{
+  "id": "github_trending-20260611-c248ddf07e44",
+  "title": "openai/gpt-2",
+  "source_url": "https://github.com/openai/gpt-2",
+  "source_type": "github_trending",
+  "summary": "该项目是OpenAI发布的GPT-2模型代码，对应论文《语言模型是无监督多任务学习器》。GPT-2是一个基于Transformer架构的大型语言模型，通过无监督学习在大量文本数据上预训练，能够执行多种自然语言处理任务，如文本生成、问答、翻译等，无需针对特定任务进行微调。该模型展示了语言模型在零样本学习场景下的强大能力，对后续LLM发展产生了深远影响。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Open Source"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-11T12:08:13.835423+00:00",
+  "published_at": null,
+  "score": 9
+}
