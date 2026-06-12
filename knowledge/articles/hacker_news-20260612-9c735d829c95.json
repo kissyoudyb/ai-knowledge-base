@@ -1,0 +1,17 @@
+{
+  "id": "hacker_news-20260612-9c735d829c95",
+  "title": "Untitled",
+  "source_url": "https://github.com/Rafaelpta/dupehound",
+  "source_type": "hacker_news",
+  "summary": "DupeHound 是一个开源工具，旨在检测和识别代码库中的重复代码片段。它通过分析代码相似性帮助开发者重构代码、减少冗余，提升代码质量和可维护性。该工具可能利用静态分析或算法匹配技术，适用于大型项目中的代码审查和优化。尽管当前在 Hacker News 上关注度较低，但作为实用开发工具，对提升代码整洁度有实际价值。",
+  "tags": [
+    "Tool",
+    "Open Source",
+    "Deployment"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-12T11:42:52.545655+00:00",
+  "published_at": "2026-06-12T11:34:19+00:00",
+  "score": 5
+}

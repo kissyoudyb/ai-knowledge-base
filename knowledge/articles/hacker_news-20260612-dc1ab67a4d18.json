@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260612-dc1ab67a4d18",
+  "title": "Untitled",
+  "source_url": "https://jo-lang.org/blog/2026-06-11-why-compile-time-sandboxing.html",
+  "source_type": "hacker_news",
+  "summary": "该文章介绍了Jo语言在编译时实现沙箱机制的技术方案，旨在提升代码安全性和执行效率。通过在编译阶段隔离不可信代码，避免运行时开销，同时保证类型安全和内存安全。该设计对系统编程、插件系统和安全敏感应用具有重要价值。",
+  "tags": [
+    "Security",
+    "Tool",
+    "Framework",
+    "Open Source"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-12T11:42:52.545862+00:00",
+  "published_at": "2026-06-12T10:48:31+00:00",
+  "score": 7
+}

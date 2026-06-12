@@ -1,0 +1,17 @@
+{
+  "id": "hacker_news-20260612-63579fc63e6c",
+  "title": "Untitled",
+  "source_url": "https://github.com/c-johannesen/cursorbar",
+  "source_type": "hacker_news",
+  "summary": "这是一个名为cursorbar的GitHub开源项目，旨在提供一种光标条（cursor bar）功能，可能用于增强文本编辑或代码编辑的视觉反馈。项目当前在Hacker News上获得1个积分且无评论，社区关注度较低。技术亮点在于其简洁的实现和潜在的可定制性，适合开发者集成到编辑器中提升用户体验。",
+  "tags": [
+    "Tool",
+    "Open Source",
+    "Deployment"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-12T11:42:52.546003+00:00",
+  "published_at": "2026-06-12T10:11:33+00:00",
+  "score": 3
+}

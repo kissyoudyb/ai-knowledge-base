@@ -1,0 +1,19 @@
+{
+  "id": "hacker_news-20260612-a3d6704b7107",
+  "title": "Untitled",
+  "source_url": "https://artificialanalysis.ai/agents/coding-agents",
+  "source_type": "hacker_news",
+  "summary": "该条目来自Hacker News，指向Artificial Analysis网站关于编码智能体（Coding Agents）的分析页面。文章可能评估了当前AI编码智能体的性能、架构或基准测试，涵盖LLM驱动的自动化编程工具。技术亮点在于对智能体在代码生成、调试和任务分解中的实用价值分析，以及可能涉及的多智能体协作或工具集成。社区关注度较低（4分，1条评论），但主题紧跟AI工程化趋势。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Agent",
+    "Tool",
+    "Framework"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-12T11:42:52.545944+00:00",
+  "published_at": "2026-06-12T10:20:53+00:00",
+  "score": 6
+}

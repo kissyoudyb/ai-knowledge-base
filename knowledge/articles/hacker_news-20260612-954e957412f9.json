@@ -1,0 +1,19 @@
+{
+  "id": "hacker_news-20260612-954e957412f9",
+  "title": "Untitled",
+  "source_url": "https://github.com/pdufour/browser-use-wasm",
+  "source_type": "hacker_news",
+  "summary": "该项目将浏览器自动化代理（browser-use）移植到 WebAssembly（WASM）环境，使得 AI 驱动的浏览器操作可以在浏览器内部或边缘计算场景中本地运行，无需依赖外部 Python 服务。其技术亮点在于利用 WASM 实现跨平台、低延迟的 AI Agent 部署，提升了隐私性和可移植性，为构建轻量级、去中心化的 AI 自动化工具提供了新思路。",
+  "tags": [
+    "AI",
+    "Agent",
+    "Tool",
+    "Open Source",
+    "Deployment"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-12T11:42:52.545834+00:00",
+  "published_at": "2026-06-12T10:50:25+00:00",
+  "score": 7
+}

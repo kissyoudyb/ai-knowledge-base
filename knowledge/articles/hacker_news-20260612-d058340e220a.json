@@ -1,0 +1,17 @@
+{
+  "id": "hacker_news-20260612-d058340e220a",
+  "title": "Untitled",
+  "source_url": "https://www.wsj.com/tech/ai/the-ai-price-war-is-here-piling-pressure-on-openai-and-anthropic-86e1d21b",
+  "source_type": "hacker_news",
+  "summary": "文章报道了AI领域的价格战已经开始，对OpenAI和Anthropic等主要AI公司施加了巨大压力。随着市场竞争加剧，各大AI模型提供商纷纷降价以吸引用户，这可能导致行业利润空间压缩，并加速AI技术的普及和商业化进程。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Deployment"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-12T11:42:52.545765+00:00",
+  "published_at": "2026-06-12T11:07:54+00:00",
+  "score": 7
+}

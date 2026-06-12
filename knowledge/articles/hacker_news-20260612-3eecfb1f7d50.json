@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260612-3eecfb1f7d50",
+  "title": "Untitled",
+  "source_url": "https://geekyants.com/blog/from-telehealth-mvp-to-production-ready-ai-product-the-architecture-compliance-and-scaling-roadmap",
+  "source_type": "hacker_news",
+  "summary": "本文详细介绍了将远程医疗MVP（最小可行产品）升级为生产级AI产品的架构、合规性和扩展路线图。文章重点讨论了如何从原型阶段过渡到可扩展、安全且符合医疗法规（如HIPAA）的系统，涵盖了数据管道设计、模型部署、监控、以及应对高并发和隐私保护的技术方案。其技术亮点在于提供了从零到一的实战指南，强调了在医疗领域AI产品化过程中平衡创新与合规的关键策略。",
+  "tags": [
+    "AI",
+    "Deployment",
+    "Security",
+    "Framework"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-12T11:42:52.546064+00:00",
+  "published_at": "2026-06-12T10:00:45+00:00",
+  "score": 7
+}

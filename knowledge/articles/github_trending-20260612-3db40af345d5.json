@@ -1,0 +1,18 @@
+{
+  "id": "github_trending-20260612-3db40af345d5",
+  "title": "p-e-w/heretic",
+  "source_url": "https://github.com/p-e-w/heretic",
+  "source_type": "github_trending",
+  "summary": "heretic 是一个针对语言模型的自动审查移除工具，旨在通过技术手段绕过或消除模型中的内容过滤机制，恢复其生成自由文本的能力。该项目利用对抗性提示或模型微调等方法，实现对审查规则的自动化规避，适用于研究模型安全边界、测试内容策略或需要无限制输出的场景。其技术亮点在于全自动流程和高效性，但需注意伦理和法律风险。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Security",
+    "Tool"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-12T11:42:52.545597+00:00",
+  "published_at": null,
+  "score": 7
+}

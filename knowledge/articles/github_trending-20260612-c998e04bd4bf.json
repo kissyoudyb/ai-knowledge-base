@@ -1,0 +1,19 @@
+{
+  "id": "github_trending-20260612-c998e04bd4bf",
+  "title": "AI4Finance-Foundation/FinGPT",
+  "source_url": "https://github.com/AI4Finance-Foundation/FinGPT",
+  "source_type": "github_trending",
+  "summary": "FinGPT 是一个开源的金融领域大型语言模型项目，旨在通过微调技术为金融应用提供强大的自然语言处理能力。该项目已在 HuggingFace 上发布训练好的模型，降低了金融 AI 的开发门槛。其技术亮点包括支持金融文本分析、情感分析、报告生成等任务，并强调透明度和可复现性，为金融科技领域的研究和开发提供了重要工具。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Fine-tuning",
+    "Open Source",
+    "Framework"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-12T11:42:52.545621+00:00",
+  "published_at": null,
+  "score": 8
+}

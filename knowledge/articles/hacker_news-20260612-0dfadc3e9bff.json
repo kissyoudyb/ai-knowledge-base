@@ -1,0 +1,19 @@
+{
+  "id": "hacker_news-20260612-0dfadc3e9bff",
+  "title": "Untitled",
+  "source_url": "https://github.com/VasileiosTs/agribrain",
+  "source_type": "hacker_news",
+  "summary": "Agribrain 是一个开源项目，旨在利用人工智能技术优化农业决策。它整合了多源数据（如土壤、气象、作物生长信息），通过机器学习模型提供精准农业建议，包括灌溉、施肥和病虫害管理。该项目强调可扩展性和易用性，支持自定义模型训练，并提供了 API 接口以便集成到现有农业系统中。其技术亮点在于将 AI 与农业实践深度结合，有望提升作物产量和资源利用效率。",
+  "tags": [
+    "AI",
+    "Open Source",
+    "Tool",
+    "Fine-tuning",
+    "Deployment"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-12T11:42:52.546022+00:00",
+  "published_at": "2026-06-12T10:04:38+00:00",
+  "score": 6
+}

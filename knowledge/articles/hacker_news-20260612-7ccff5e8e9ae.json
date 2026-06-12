@@ -1,0 +1,17 @@
+{
+  "id": "hacker_news-20260612-7ccff5e8e9ae",
+  "title": "Untitled",
+  "source_url": "https://twitter.com/manassharmahere/status/2065370878519468221",
+  "source_type": "hacker_news",
+  "summary": "这是一个关于Yacht Hackathon的项目介绍，名为LiveHere，旨在通过AI技术将房产照片转化为30秒的电影预告片，以吸引租客。项目利用NVIDIA Cosmos进行视频生成，部署在Nebius的H200 NVLink GPU上，并通过Tavily增强房产的社区背景信息。技术栈包括NVIDIA、Composio、Tavily等，强调在短时间内展示房产位置、社区氛围和价格等关键信息。该项目在Hacker News上获得6个点赞，暂无评论，技术新颖但社区关注度较低。",
+  "tags": [
+    "AI",
+    "Deployment",
+    "Tool"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-12T11:42:52.546044+00:00",
+  "published_at": "2026-06-12T10:04:03+00:00",
+  "score": 5
+}

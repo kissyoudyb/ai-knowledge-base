@@ -1,0 +1,17 @@
+{
+  "id": "hacker_news-20260612-cdbc276d8962",
+  "title": "Untitled",
+  "source_url": "https://marcusmichaels.com/notes/grep-like-an-llm/",
+  "source_type": "hacker_news",
+  "summary": "本文介绍了一种将LLM（大语言模型）的语义理解能力与传统grep工具结合的方法，旨在提升文本搜索的智能性和灵活性。作者通过设计提示词和利用LLM的上下文感知能力，使搜索不仅能匹配关键词，还能理解查询意图，从而返回更相关的结果。该方法在代码审查、日志分析等场景中具有实用价值，展示了LLM作为增强搜索工具的新思路。",
+  "tags": [
+    "LLM",
+    "Tool",
+    "AI"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-12T11:42:52.545985+00:00",
+  "published_at": "2026-06-12T10:16:10+00:00",
+  "score": 7
+}
