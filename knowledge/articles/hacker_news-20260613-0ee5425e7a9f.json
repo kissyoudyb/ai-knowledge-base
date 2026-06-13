@@ -1,0 +1,17 @@
+{
+  "id": "hacker_news-20260613-0ee5425e7a9f",
+  "title": "Untitled",
+  "source_url": "https://webcli.sh",
+  "source_type": "hacker_news",
+  "summary": "该条目指向一个名为 webcli.sh 的网站，可能是一个命令行工具或服务，用于在浏览器中运行 Shell 命令。由于描述信息有限，仅能从 URL 和 Hacker News 评论链接推测其技术方向。该工具可能简化了 Web 与命令行的交互，具有实用价值，但缺乏具体技术细节和社区讨论。",
+  "tags": [
+    "Tool",
+    "Deployment",
+    "Open Source"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-13T10:26:39.038417+00:00",
+  "published_at": "2026-06-13T07:05:55+00:00",
+  "score": 4
+}

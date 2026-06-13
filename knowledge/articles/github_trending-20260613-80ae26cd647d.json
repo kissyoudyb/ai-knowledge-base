@@ -1,0 +1,18 @@
+{
+  "id": "github_trending-20260613-80ae26cd647d",
+  "title": "xtekky/gpt4free",
+  "source_url": "https://github.com/xtekky/gpt4free",
+  "source_type": "github_trending",
+  "summary": "xtekky/gpt4free 是一个开源项目，提供对多种强大语言模型的免费访问，包括 Opus 4.6、GPT 5.3、Kimi 2.5、DeepSeek v3.2 和 Gemini 3 等。该项目旨在通过聚合不同模型的 API 或逆向工程，使用户无需付费即可体验前沿 LLM 能力。其技术亮点在于集成了多个主流模型，降低了使用门槛，适合开发者和研究者进行快速原型验证或对比测试。尽管存在稳定性和合规性风险，但该项目在 GitHub 上具有高关注度，反映了社区对免费、多模型访问的强烈需求。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Open Source",
+    "Tool"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-13T10:26:39.037757+00:00",
+  "published_at": null,
+  "score": 8
+}

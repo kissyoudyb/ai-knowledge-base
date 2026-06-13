@@ -1,0 +1,17 @@
+{
+  "id": "hacker_news-20260613-a0a2fe17a994",
+  "title": "Untitled",
+  "source_url": "https://news.ycombinator.com/item?id=48514684",
+  "source_type": "hacker_news",
+  "summary": "该条目提出利用大型语言模型（LLM）自动审核论坛帖子与评论，以替代人工版主。核心思路是将通用规则和论坛特定规则注入LLM上下文，由模型评估每一条内容。这一方案旨在解决人工审核效率低、主观性强的问题，但面临规则泛化、误判风险及上下文长度限制等挑战。技术亮点在于将LLM作为自动化审核引擎，具有潜在的应用价值。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Tool"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-13T10:26:39.038314+00:00",
+  "published_at": "2026-06-13T08:02:16+00:00",
+  "score": 5
+}

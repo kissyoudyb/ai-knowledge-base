@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260613-d365adff5882",
+  "title": "Untitled",
+  "source_url": "https://carette.xyz/posts/the_five_pillars_of_post_ai_interview/",
+  "source_type": "hacker_news",
+  "summary": "该文章探讨了后AI时代面试的五大支柱，分析了AI技术如何改变传统面试流程，包括自动化评估、候选人匹配、实时反馈、数据驱动决策和公平性保障。文章强调了AI在提升招聘效率的同时，也需关注算法偏见和隐私问题，为技术从业者提供了面试系统设计的参考。",
+  "tags": [
+    "AI",
+    "Tool",
+    "Deployment",
+    "Security"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-13T10:26:39.038007+00:00",
+  "published_at": "2026-06-13T09:44:05+00:00",
+  "score": 6
+}

@@ -1,0 +1,19 @@
+{
+  "id": "hacker_news-20260613-28be9ca5c143",
+  "title": "Untitled",
+  "source_url": "https://github.com/Paca-AI/paca",
+  "source_type": "hacker_news",
+  "summary": "该项目是一个基于Go语言开发的免费、轻量级Jira替代品，名为Paca。其核心创新在于将人类与AI代理视为平等的团队成员，共同参与冲刺规划和任务分配。Paca支持完全自定义的视图、字段，并采用基于WASM的插件架构，具有高度可扩展性。开发者团队日常使用该项目，承诺永久免费并持续维护。该项目体现了AI与人类协作在项目管理领域的新范式。",
+  "tags": [
+    "AI",
+    "Agent",
+    "Open Source",
+    "Tool",
+    "Framework"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-13T10:26:39.037977+00:00",
+  "published_at": "2026-06-13T09:44:25+00:00",
+  "score": 7
+}

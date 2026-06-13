@@ -1,0 +1,17 @@
+{
+  "id": "hacker_news-20260613-93aee8bdb4ac",
+  "title": "Untitled",
+  "source_url": "https://blog.vigilharbor.com/door-with-no-lock",
+  "source_type": "hacker_news",
+  "summary": "该条目指向一篇博客文章《Door With No Lock》，探讨了在AI系统中缺乏安全机制的风险，类比于没有锁的门。文章可能讨论了AI模型部署中的安全隐患、访问控制缺失或数据泄露问题，强调了在AI应用中集成安全措施的重要性。尽管社区关注度较低（1分，0评论），但主题涉及AI安全这一关键领域，具有潜在的技术价值。",
+  "tags": [
+    "Security",
+    "AI",
+    "Deployment"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-13T10:26:39.038101+00:00",
+  "published_at": "2026-06-13T09:25:01+00:00",
+  "score": 4
+}

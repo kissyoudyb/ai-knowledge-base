@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260613-6d4e9d1061ef",
+  "title": "Untitled",
+  "source_url": "https://www.agilehunt.com/blog/fable-5-jailbreak-ai-guardrails",
+  "source_type": "hacker_news",
+  "summary": "本文介绍了一种名为“Fable 5”的越狱技术，旨在突破AI护栏（guardrails）的限制。文章详细描述了如何通过精心设计的提示词或对话策略，诱导大型语言模型（LLM）绕过其安全与伦理约束，生成原本被禁止的内容。该技术展示了当前AI安全机制的脆弱性，并强调了加强护栏设计的重要性。对于AI安全研究者和开发者而言，这是一篇具有警示意义的技术分析，揭示了LLM在对抗性输入下的潜在风险。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Security",
+    "Tool"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-13T10:26:39.038067+00:00",
+  "published_at": "2026-06-13T09:39:57+00:00",
+  "score": 7
+}

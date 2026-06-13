@@ -1,0 +1,17 @@
+{
+  "id": "hacker_news-20260613-5ddfb37f5a4d",
+  "title": "Untitled",
+  "source_url": "https://www.techradar.com/pro/a-major-kpmg-report-on-ai-was-found-to-be-chock-full-of-ai-hallucinations",
+  "source_type": "hacker_news",
+  "summary": "TechRadar 报道称，一份由毕马威（KPMG）发布的重要 AI 报告被发现充斥着 AI 幻觉。该报告本应提供权威的 AI 行业洞察，但实际内容中出现了大量由 AI 生成的不准确或虚构信息，严重损害了其可信度。这一事件凸显了当前 AI 内容生成技术（如大型语言模型）在事实核查和可靠性方面的重大缺陷，也警示了企业在依赖 AI 生成报告时需加强人工审核与验证流程。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Security"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-13T10:26:39.038261+00:00",
+  "published_at": "2026-06-13T08:29:01+00:00",
+  "score": 7
+}

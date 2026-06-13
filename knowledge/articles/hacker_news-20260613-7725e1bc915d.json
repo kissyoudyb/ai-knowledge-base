@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260613-7725e1bc915d",
+  "title": "Untitled",
+  "source_url": "https://developer.microsoft.com/blog/your-agent-just-scaffolded-a-project-from-2020",
+  "source_type": "hacker_news",
+  "summary": "该条目指向一篇微软开发者博客文章，讨论AI代理如何从2020年的项目中自动构建（scaffold）代码。文章可能展示了AI代理在理解旧项目结构、依赖和代码风格后，自动生成新项目框架的能力，体现了AI在软件开发中的实用价值，尤其是对遗留代码的复用和现代化改造。",
+  "tags": [
+    "AI",
+    "Agent",
+    "Tool",
+    "Framework"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-13T10:26:39.038388+00:00",
+  "published_at": "2026-06-13T07:21:30+00:00",
+  "score": 6
+}

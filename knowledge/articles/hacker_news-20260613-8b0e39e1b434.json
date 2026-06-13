@@ -1,0 +1,19 @@
+{
+  "id": "hacker_news-20260613-8b0e39e1b434",
+  "title": "Untitled",
+  "source_url": "https://github.com/vladignatyev/brain-map-skill",
+  "source_type": "hacker_news",
+  "summary": "该项目是一个基于Hacker News社区讨论的链接，指向一个名为“brain-map-skill”的GitHub仓库。该仓库可能涉及通过技能映射或知识图谱技术来增强AI代理（Agent）的能力，例如将大脑映射或认知技能与LLM结合，以提升智能体的决策和推理能力。尽管条目信息有限，但结合社区讨论（6条评论）和8个点赞，表明该技术可能具有创新性，专注于AI代理的认知技能构建，属于开源工具或框架范畴。",
+  "tags": [
+    "AI",
+    "Agent",
+    "LLM",
+    "Open Source",
+    "Tool"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-13T10:26:39.038443+00:00",
+  "published_at": "2026-06-13T06:43:42+00:00",
+  "score": 6
+}
