@@ -1,0 +1,18 @@
+{
+  "id": "github_trending-20260614-6ea9960b3164",
+  "title": "shiyu-coder/Kronos",
+  "source_url": "https://github.com/shiyu-coder/Kronos",
+  "source_type": "github_trending",
+  "summary": "Kronos 是一个专为金融市场语言设计的基础模型，旨在通过深度学习技术分析和预测金融市场的动态。该项目利用大规模金融数据训练，能够处理股票、期货等金融产品的价格序列和文本信息，提供市场趋势预测和交易信号生成。其技术亮点在于将自然语言处理中的基础模型范式应用于金融领域，实现了对市场行为的端到端建模，具有较高的实用价值，尤其适合量化交易和金融分析场景。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Fine-tuning",
+    "Tool"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-14T10:47:33.995718+00:00",
+  "published_at": null,
+  "score": 8
+}

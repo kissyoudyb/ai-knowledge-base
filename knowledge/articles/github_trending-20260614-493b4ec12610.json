@@ -1,0 +1,19 @@
+{
+  "id": "github_trending-20260614-493b4ec12610",
+  "title": "HandsOnLLM/Hands-On-Large-Language-Models",
+  "source_url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+  "source_type": "github_trending",
+  "summary": "该仓库是 O'Reilly 书籍《Hands-On Large Language Models》的官方代码库，提供了大量实战代码示例，涵盖 LLM 的微调、部署、RAG 等核心主题。通过动手实践，帮助开发者深入理解 LLM 的原理与应用，适合希望快速上手 LLM 开发的技术人员。",
+  "tags": [
+    "LLM",
+    "Fine-tuning",
+    "RAG",
+    "Deployment",
+    "Open Source"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-14T10:47:33.995758+00:00",
+  "published_at": null,
+  "score": 8
+}

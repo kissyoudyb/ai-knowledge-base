@@ -1,0 +1,17 @@
+{
+  "id": "github_trending-20260614-c248ddf07e44",
+  "title": "openai/gpt-2",
+  "source_url": "https://github.com/openai/gpt-2",
+  "source_type": "github_trending",
+  "summary": "OpenAI 的 GPT-2 项目是论文《Language Models are Unsupervised Multitask Learners》的代码实现，展示了大规模语言模型在无监督学习下的多任务能力。该模型通过自回归方式生成文本，无需针对特定任务进行微调即可完成翻译、问答、摘要等任务，是后续 GPT 系列和 LLM 发展的重要基础。其开源发布推动了自然语言处理领域的进步，具有极高的技术价值和社区影响力。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Open Source"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-14T10:47:33.995785+00:00",
+  "published_at": null,
+  "score": 9
+}

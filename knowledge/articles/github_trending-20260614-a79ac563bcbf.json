@@ -1,0 +1,19 @@
+{
+  "id": "github_trending-20260614-a79ac563bcbf",
+  "title": "stanfordnlp/dspy",
+  "source_url": "https://github.com/stanfordnlp/dspy",
+  "source_type": "github_trending",
+  "summary": "DSPy 是一个用于编程而非提示语言模型的框架，旨在通过声明式编程方式优化和自动化语言模型的使用。它允许开发者用少量代码定义任务、选择模型和优化策略，自动生成高质量提示或微调模型，显著提升 LLM 应用的可靠性和可维护性。该框架支持多种后端（如 OpenAI、Llama 等），并集成 RAG、Agent 等高级模式，降低了 LLM 应用的开发门槛。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Framework",
+    "RAG",
+    "Agent"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-14T10:47:33.995708+00:00",
+  "published_at": null,
+  "score": 9
+}

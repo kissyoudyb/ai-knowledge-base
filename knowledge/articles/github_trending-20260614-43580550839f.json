@@ -1,0 +1,18 @@
+{
+  "id": "github_trending-20260614-43580550839f",
+  "title": "zai-org/ChatGLM-6B",
+  "source_url": "https://github.com/zai-org/ChatGLM-6B",
+  "source_type": "github_trending",
+  "summary": "ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型，基于通用语言模型（GLM）架构，拥有 62 亿参数。该模型经过约 1T 标识符的中英双语训练，并辅以监督微调、反馈自助、人类反馈强化学习等技术，使其能够生成符合人类偏好的回答。其显著亮点在于，仅需 6GB 显存（INT4 量化级别）即可运行，极大降低了部署门槛，使得个人开发者和小型团队也能在消费级显卡上搭建和微调对话 AI。该模型支持本地部署，为隐私敏感场景提供了解决方案，并具备网页版、命令行和 API 调用等多种交互方式。作为开源双语模型，它在中文对话任务上表现出色，推动了中文 NLP 社区的民主化发展。",
+  "tags": [
+    "LLM",
+    "Open Source",
+    "Fine-tuning",
+    "Deployment"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-14T10:47:33.995688+00:00",
+  "published_at": null,
+  "score": 9
+}
