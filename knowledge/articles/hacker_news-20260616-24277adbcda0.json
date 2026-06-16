@@ -1,0 +1,17 @@
+{
+  "id": "hacker_news-20260616-24277adbcda0",
+  "title": "Untitled",
+  "source_url": "https://decrypt.co/371201/anthropic-lawsuit-allegedly-misleading-claude-ai-pricing",
+  "source_type": "hacker_news",
+  "summary": "本文报道了Anthropic公司因涉嫌误导Claude AI定价而面临诉讼。诉讼指控Anthropic在宣传其AI模型Claude时，未能清晰披露实际使用成本，导致用户产生误解。该事件引发了对AI服务定价透明度和消费者权益保护的关注，凸显了AI商业化过程中信息披露的重要性。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Security"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-16T12:51:07.187012+00:00",
+  "published_at": "2026-06-16T12:12:22+00:00",
+  "score": 5
+}

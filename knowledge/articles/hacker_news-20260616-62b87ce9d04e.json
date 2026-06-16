@@ -1,0 +1,17 @@
+{
+  "id": "hacker_news-20260616-62b87ce9d04e",
+  "title": "Untitled",
+  "source_url": "https://github.com/msgbyte/dao-browser",
+  "source_type": "hacker_news",
+  "summary": "这是一个名为“dao-browser”的开源项目，托管在GitHub上，旨在提供一个去中心化自治组织（DAO）的浏览器工具。该项目可能允许用户浏览和交互DAO相关的数据，如提案、投票和治理信息。尽管当前在Hacker News上关注度较低（1分，0评论），但其技术价值在于简化DAO的访问和参与，推动Web3和去中心化治理的普及。",
+  "tags": [
+    "Open Source",
+    "Tool",
+    "Deployment"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-16T12:51:07.186819+00:00",
+  "published_at": "2026-06-16T12:39:27+00:00",
+  "score": 4
+}

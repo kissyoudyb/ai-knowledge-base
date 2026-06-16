@@ -1,0 +1,17 @@
+{
+  "id": "hacker_news-20260616-16e569bec3f7",
+  "title": "Untitled",
+  "source_url": "https://github.com/rNetAi/rnet-oauth-python",
+  "source_type": "hacker_news",
+  "summary": "这是一个名为 rnet-oauth-python 的开源项目，提供了 OAuth 认证的 Python 实现。该项目托管在 GitHub 上，旨在简化 OAuth 流程的集成。尽管在 Hacker News 上讨论较少，但其专注于认证安全领域，可能对需要快速实现 OAuth 的开发者具有实用价值。",
+  "tags": [
+    "Security",
+    "Open Source",
+    "Tool"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-16T12:51:07.187056+00:00",
+  "published_at": "2026-06-16T11:29:20+00:00",
+  "score": 4
+}

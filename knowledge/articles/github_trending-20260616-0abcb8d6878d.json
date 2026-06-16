@@ -1,0 +1,19 @@
+{
+  "id": "github_trending-20260616-0abcb8d6878d",
+  "title": "mlabonne/llm-course",
+  "source_url": "https://github.com/mlabonne/llm-course",
+  "source_type": "github_trending",
+  "summary": "mlabonne/llm-course 是一个开源课程项目，旨在帮助开发者系统学习大型语言模型（LLM）技术。它提供了从入门到进阶的学习路线图（roadmaps）和可运行的 Colab 笔记本，覆盖模型微调、推理、部署等关键环节。该课程强调实践性，适合希望快速掌握 LLM 开发技能的 AI 从业者。其开源性质和社区活跃度使其成为当前 GitHub 上的热门资源，具有较高的实用价值和教学价值。",
+  "tags": [
+    "LLM",
+    "Fine-tuning",
+    "Open Source",
+    "Tool",
+    "Framework"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-16T12:51:07.186509+00:00",
+  "published_at": null,
+  "score": 8
+}

@@ -1,0 +1,17 @@
+{
+  "id": "hacker_news-20260616-4319785d4510",
+  "title": "Untitled",
+  "source_url": "https://transformer-circuits.pub/2026/nla/",
+  "source_type": "hacker_news",
+  "summary": "该条目指向一篇关于神经网络线性近似（NLA）的技术文章，来自Transformer Circuits博客。文章可能探讨了如何通过线性近似方法理解和解释神经网络内部机制，特别是Transformer模型的行为。这有助于提升模型的可解释性和调试能力，对AI安全与透明度有潜在价值。尽管当前社区关注度较低（仅1分、0评论），但内容涉及前沿的模型解释性研究。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Framework"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-16T12:51:07.187071+00:00",
+  "published_at": "2026-06-16T11:24:20+00:00",
+  "score": 6
+}

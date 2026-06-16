@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260616-388aa0775771",
+  "title": "Untitled",
+  "source_url": "https://resilienceforward.com/the-counterintuitive-crisis-at-the-heart-of-ai-security/",
+  "source_type": "hacker_news",
+  "summary": "本文探讨了AI安全领域一个反直觉的核心危机：随着AI系统能力增强，其安全漏洞和攻击面也呈指数级增长，但现有的安全措施却未能同步进化。文章指出，当前AI安全研究过度关注模型层面的对抗性攻击，而忽视了部署环境、供应链和人类交互等更广泛的系统风险。作者呼吁社区重新定义AI安全，从单一模型防护转向全生命周期、多层次的系统安全架构，并强调需要跨学科合作来应对这一挑战。",
+  "tags": [
+    "AI",
+    "Security",
+    "LLM",
+    "Deployment"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-16T12:51:07.186961+00:00",
+  "published_at": "2026-06-16T12:20:15+00:00",
+  "score": 7
+}

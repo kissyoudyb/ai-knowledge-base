@@ -1,0 +1,19 @@
+{
+  "id": "hacker_news-20260616-be451dd6746d",
+  "title": "Untitled",
+  "source_url": "https://www.rafalmuszynski.pl/posts/2026/i-gave-myself-a-team-of-ai-engineers-that-open-their-own-prs",
+  "source_type": "hacker_news",
+  "summary": "作者分享了自己组建一个由AI工程师组成的团队的经验，这些AI工程师能够自主创建和提交Pull Request（PR）。文章探讨了如何利用AI代理（Agent）来自动化软件开发流程中的代码审查和合并请求，展示了AI在提升开发效率方面的潜力。尽管社区关注度较低（1分，0评论），但技术思路新颖，涉及多代理协作和自动化部署。",
+  "tags": [
+    "AI",
+    "Agent",
+    "Multi-Agent",
+    "Tool",
+    "Deployment"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-16T12:51:07.186733+00:00",
+  "published_at": "2026-06-16T12:48:43+00:00",
+  "score": 6
+}

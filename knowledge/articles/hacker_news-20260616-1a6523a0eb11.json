@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260616-1a6523a0eb11",
+  "title": "Untitled",
+  "source_url": "https://www.bloomberg.com/news/articles/2026-06-16/spacex-cements-60-billion-deal-to-take-over-ai-startup-cursor",
+  "source_type": "hacker_news",
+  "summary": "据彭博社报道，SpaceX 以 600 亿美元收购 AI 初创公司 Cursor，此举将 SpaceX 的工程实力与 Cursor 的 AI 技术结合，旨在推动航天领域的智能化。Cursor 专注于 AI 代码生成和自动化，收购后可能加速 SpaceX 在火箭设计、制造和任务规划中的 AI 应用。该交易凸显了 AI 在航天工业中的战略价值，以及大型企业通过收购获取前沿 AI 能力的趋势。",
+  "tags": [
+    "AI",
+    "Tool",
+    "Deployment",
+    "LLM"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-16T12:51:07.187131+00:00",
+  "published_at": "2026-06-16T11:07:46+00:00",
+  "score": 7
+}

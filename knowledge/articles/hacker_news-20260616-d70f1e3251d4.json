@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260616-d70f1e3251d4",
+  "title": "Untitled",
+  "source_url": "https://www.cnbc.com/2026/06/16/-spacex-to-buy-cursor-ai-parent-anysphere-for-60-billion.html",
+  "source_type": "hacker_news",
+  "summary": "据 CNBC 报道，SpaceX 计划以 600 亿美元收购 Cursor AI 的母公司 Anysphere。这一交易若达成，将标志着航天与 AI 领域的重大融合，凸显 AI 辅助编程工具在大型科技企业中的战略价值。Cursor AI 是一款基于大型语言模型的代码生成工具，其被收购可能推动 AI 在航天软件开发和自动化中的应用。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Tool",
+    "Deployment"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-16T12:51:07.187111+00:00",
+  "published_at": "2026-06-16T11:08:44+00:00",
+  "score": 8
+}

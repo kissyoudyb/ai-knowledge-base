@@ -1,0 +1,17 @@
+{
+  "id": "hacker_news-20260616-b2d3c0ce84da",
+  "title": "Untitled",
+  "source_url": "https://github.com/edgestorage/web-cap",
+  "source_type": "hacker_news",
+  "summary": "这是一个名为“web-cap”的GitHub项目，旨在通过浏览器扩展或Web应用捕获网络请求和响应数据。该项目可能用于调试、监控或分析Web应用性能，提供了一种轻量级的网络流量捕获工具。目前社区关注度较低（3个点赞，0条评论），技术新颖度一般，但实用价值较高，尤其适合前端开发者或安全研究人员进行网络调试。",
+  "tags": [
+    "Tool",
+    "Open Source",
+    "Security"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-16T12:51:07.186882+00:00",
+  "published_at": "2026-06-16T12:31:14+00:00",
+  "score": 4
+}

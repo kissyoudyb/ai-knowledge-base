@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260616-53275c9bb3a5",
+  "title": "Untitled",
+  "source_url": "https://learn.agentsubstrate.dev/",
+  "source_type": "hacker_news",
+  "summary": "该条目是一个关于 Agent Substrate 的学习资源页面，提供了构建 AI 代理的教程和文档。技术亮点在于它可能涉及多代理系统、工具集成或框架使用，旨在帮助开发者理解和实现自主代理。由于社区关注度较低（1 分，0 评论），其价值尚待验证，但作为学习材料对 AI 代理开发有一定参考意义。",
+  "tags": [
+    "AI",
+    "Agent",
+    "Framework",
+    "Tool"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-16T12:51:07.187098+00:00",
+  "published_at": "2026-06-16T11:10:49+00:00",
+  "score": 3
+}

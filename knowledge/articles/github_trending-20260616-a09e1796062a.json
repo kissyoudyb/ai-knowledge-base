@@ -1,0 +1,19 @@
+{
+  "id": "github_trending-20260616-a09e1796062a",
+  "title": "dzhng/deep-research",
+  "source_url": "https://github.com/dzhng/deep-research",
+  "source_type": "github_trending",
+  "summary": "dzhng/deep-research 是一个基于 AI 的研究助手项目，通过结合搜索引擎、网页抓取和大语言模型，实现对任意主题的迭代式深度研究。其核心价值在于提供最简化的深度研究代理实现，能够随时间推移不断优化研究方向并深入探索主题。该项目在 GitHub 上受到广泛关注，代表了 AI 代理在自动化研究领域的前沿应用。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Agent",
+    "Tool",
+    "Open Source"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-16T12:51:07.186717+00:00",
+  "published_at": null,
+  "score": 8
+}
