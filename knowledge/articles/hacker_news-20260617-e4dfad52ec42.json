@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260617-e4dfad52ec42",
+  "title": "Untitled",
+  "source_url": "https://takes.jamesomalley.co.uk/p/build-gemini-build",
+  "source_type": "hacker_news",
+  "summary": "本文介绍了一个名为“Build Gemini”的项目，旨在通过Gemini API构建AI应用。文章可能提供了技术实现细节或教程，但内容未直接给出。从Hacker News的评论和点赞数来看，该项目获得了一定的社区关注，但热度中等。技术亮点可能包括利用Gemini模型进行开发，但具体价值需进一步阅读原文确认。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Framework",
+    "Tool"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-17T12:15:12.333947+00:00",
+  "published_at": "2026-06-17T11:09:00+00:00",
+  "score": 6
+}

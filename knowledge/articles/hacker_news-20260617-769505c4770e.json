@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260617-769505c4770e",
+  "title": "Untitled",
+  "source_url": "https://github.com/salimassili62-afk/ai-costguard",
+  "source_type": "hacker_news",
+  "summary": "该项目是一个名为 AI CostGuard 的开源工具，旨在帮助用户监控和控制 AI 服务（如 LLM API）的使用成本。它通过跟踪 API 调用、设置预算警报和提供可视化仪表盘，帮助开发者避免意外超支。该工具适用于个人开发者和小型团队，具有实用价值，但社区关注度较低。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Tool",
+    "Open Source"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-17T12:15:12.334348+00:00",
+  "published_at": "2026-06-17T09:47:45+00:00",
+  "score": 5
+}

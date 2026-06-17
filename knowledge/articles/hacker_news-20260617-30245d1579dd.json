@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260617-30245d1579dd",
+  "title": "Untitled",
+  "source_url": "https://news.ycombinator.com/item?id=48568372",
+  "source_type": "hacker_news",
+  "summary": "一位有9年经验的软件工程师描述了一种新的工作流疲劳现象：在完成项目架构并准备好上下文工程提示后，点击发送给AI，等待期间大脑会游离、切换应用、随机搜索，如果AI出错还需反复监督。这种体验导致了认知过载和疲劳感。该帖子在Hacker News上引发讨论，反映了AI辅助编程中用户注意力分散和交互效率问题。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Tool",
+    "Workflow"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-17T12:15:12.334070+00:00",
+  "published_at": "2026-06-17T10:37:09+00:00",
+  "score": 6
+}

@@ -1,0 +1,17 @@
+{
+  "id": "hacker_news-20260617-553855f9bef8",
+  "title": "Untitled",
+  "source_url": "https://www.dforge.io/blog/internal-tools-built-to-last",
+  "source_type": "hacker_news",
+  "summary": "本文讨论了如何构建持久耐用的内部工具，强调了在快速变化的技术环境中，选择合适的技术栈和架构设计的重要性。文章指出，内部工具应注重可维护性、扩展性和用户体验，避免过度依赖短期流行的框架。通过实际案例，作者分享了如何利用现代Web技术（如React、Node.js）和数据库设计来构建长期稳定的内部工具，并提出了避免技术债务和提升团队效率的策略。",
+  "tags": [
+    "Tool",
+    "Framework",
+    "Deployment"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-17T12:15:12.334185+00:00",
+  "published_at": "2026-06-17T10:20:50+00:00",
+  "score": 6
+}
