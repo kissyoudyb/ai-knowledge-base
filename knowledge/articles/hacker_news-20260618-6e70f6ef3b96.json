@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260618-6e70f6ef3b96",
+  "title": "Untitled",
+  "source_url": "https://jobeasyapply.com/blog/how-i-built-8-ai-tools-for-0-dollars-with-nvidia-nim",
+  "source_type": "hacker_news",
+  "summary": "本文作者分享了如何利用 NVIDIA NIM（NVIDIA Inference Microservices）在零成本的情况下构建了 8 个 AI 工具。文章详细介绍了 NIM 的部署流程、API 调用方式以及各个工具的具体功能，包括文本生成、代码辅助、图像分析等。作者强调了 NIM 的易用性和高效性，使得个人开发者无需高昂的 GPU 成本即可快速搭建实用的 AI 应用。该文展示了 NVIDIA 在降低 AI 开发门槛方面的最新进展，对独立开发者和小型团队具有很高的参考价值。",
+  "tags": [
+    "AI",
+    "Tool",
+    "Deployment",
+    "Open Source"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-18T11:49:51.208092+00:00",
+  "published_at": "2026-06-18T09:35:09+00:00",
+  "score": 7
+}

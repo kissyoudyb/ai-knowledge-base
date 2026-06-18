@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260618-8b372b237db6",
+  "title": "Untitled",
+  "source_url": "https://sloptracker.org",
+  "source_type": "hacker_news",
+  "summary": "该条目指向一个名为 Slop Tracker 的网站，用于追踪和记录 AI 生成的低质量内容（即“slop”）。虽然标题未命名，但其核心功能是识别和标记由大型语言模型（LLM）等 AI 工具生成的垃圾信息，帮助用户辨别内容质量。该工具可能通过分析文本模式、元数据或来源特征来检测 AI 生成内容，具有较高的实用价值，尤其适用于内容审核、信息质量评估和反垃圾场景。社区关注度较低（仅2分，0条评论），但技术方向新颖，聚焦于 AI 内容治理这一热点问题。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Tool",
+    "Security"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-18T11:49:51.207759+00:00",
+  "published_at": "2026-06-18T11:22:16+00:00",
+  "score": 6
+}

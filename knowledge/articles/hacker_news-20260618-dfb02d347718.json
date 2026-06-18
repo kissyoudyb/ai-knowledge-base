@@ -1,0 +1,19 @@
+{
+  "id": "hacker_news-20260618-dfb02d347718",
+  "title": "Untitled",
+  "source_url": "https://stratechery.com/2026/an-interview-with-michael-morton-about-e-commerce-in-the-age-of-ai/",
+  "source_type": "hacker_news",
+  "summary": "本文是对Michael Morton的访谈，探讨AI时代电子商务的变革。Morton分析了AI如何通过个性化推荐、自动化客服和供应链优化重塑电商行业，并强调了大型语言模型（LLM）在理解用户意图和生成动态内容方面的关键作用。文章还讨论了AI代理（Agent）在管理库存、处理退货等复杂任务中的潜力，以及多代理系统（Multi-Agent）如何协同工作以提升效率。访谈突出了AI技术从工具到战略核心的转变，为电商企业提供了实用见解。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Agent",
+    "Multi-Agent",
+    "Tool"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-18T11:49:51.207865+00:00",
+  "published_at": "2026-06-18T10:48:52+00:00",
+  "score": 7
+}

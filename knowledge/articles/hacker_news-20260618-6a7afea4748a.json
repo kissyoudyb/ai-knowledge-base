@@ -1,0 +1,19 @@
+{
+  "id": "hacker_news-20260618-6a7afea4748a",
+  "title": "Untitled",
+  "source_url": "https://www.glean.com/work-ai-institute/reports/work-ai-index-report",
+  "source_type": "hacker_news",
+  "summary": "该条目指向 Glean 发布的《Work AI Index Report》，报告可能涵盖企业级 AI 应用的最新趋势、技术进展和实际部署案例。作为一份行业报告，其技术亮点在于分析 LLM、Agent、RAG 等在企业工作场景中的落地效果，以及 AI 对生产力提升的量化评估。报告具有较高的实用价值，可为企业决策者提供技术选型和投资参考。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Agent",
+    "Tool",
+    "Framework"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-18T11:49:51.208031+00:00",
+  "published_at": "2026-06-18T09:51:01+00:00",
+  "score": 7
+}

@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260618-c4de387f461c",
+  "title": "Untitled",
+  "source_url": "https://rubystacknews.com/2026/06/17/ruby-4-0-is-here-why-is-ai-still-writing-ruby-3-0/",
+  "source_type": "hacker_news",
+  "summary": "该条目报道了Ruby 4.0的发布，但讽刺性地指出AI仍在使用过时的Ruby 3.0语法。文章可能探讨了AI编程助手在语言版本更新上的滞后问题，以及开发者社区对此的幽默反应。内容涉及AI工具与编程语言生态的脱节，引发对AI模型训练数据时效性的思考。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Tool",
+    "Open Source"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-18T11:49:51.207803+00:00",
+  "published_at": "2026-06-18T11:15:59+00:00",
+  "score": 6
+}

@@ -1,0 +1,19 @@
+{
+  "id": "hacker_news-20260618-517eeecaeea8",
+  "title": "Untitled",
+  "source_url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+  "source_type": "hacker_news",
+  "summary": "本文介绍了如何使用 Elasticsearch 作为 AI Agent 的记忆存储系统，以增强 Agent 的长期记忆能力。通过将对话历史、用户偏好和上下文信息索引到 Elasticsearch 中，Agent 能够实现更连贯、个性化的交互。文章展示了具体的实现方法，包括数据建模、检索策略和集成方式，强调了 Elasticsearch 在可扩展性、实时搜索和混合检索方面的优势。该方案为构建具有持久记忆的智能 Agent 提供了实用参考，尤其适用于需要长期上下文管理的对话系统和个性化推荐场景。",
+  "tags": [
+    "AI",
+    "Agent",
+    "RAG",
+    "Tool",
+    "Framework"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-18T11:49:51.207782+00:00",
+  "published_at": "2026-06-18T11:20:18+00:00",
+  "score": 7
+}

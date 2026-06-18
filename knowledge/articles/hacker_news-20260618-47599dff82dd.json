@@ -1,0 +1,19 @@
+{
+  "id": "hacker_news-20260618-47599dff82dd",
+  "title": "Untitled",
+  "source_url": "https://github.com/ibrahimkobeissy/ai-second-brain-template",
+  "source_type": "hacker_news",
+  "summary": "这是一个名为“AI Second Brain”的开源项目模板，旨在帮助用户构建个人化的AI知识管理系统。该项目利用大型语言模型（LLM）和检索增强生成（RAG）技术，从用户收集的笔记、文章和文档中提取信息，并生成智能回答或摘要。其核心价值在于提供了一种可定制的框架，让用户能够轻松搭建自己的“第二大脑”，实现高效的知识检索与内容生成。尽管当前在Hacker News上关注度较低（2分，0评论），但该模板对于希望利用AI进行个人知识管理的开发者具有实用参考价值。",
+  "tags": [
+    "AI",
+    "LLM",
+    "RAG",
+    "Open Source",
+    "Framework"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-18T11:49:51.207971+00:00",
+  "published_at": "2026-06-18T10:04:59+00:00",
+  "score": 5
+}

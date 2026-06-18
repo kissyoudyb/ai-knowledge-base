@@ -1,0 +1,19 @@
+{
+  "id": "hacker_news-20260618-0c30368decea",
+  "title": "Untitled",
+  "source_url": "https://sjg.io/writing/gen-5-ai-enterprise-harness-war/",
+  "source_type": "hacker_news",
+  "summary": "本文探讨了第五代AI在企业中的竞争格局，重点分析了企业如何从模型训练转向AI应用的实际部署与集成。文章指出，随着基础模型能力趋同，企业竞争的关键在于如何高效地利用现有AI工具（如Agent、RAG等）解决具体业务问题，并强调了安全、成本控制和多智能体协作的重要性。文章还讨论了开源框架与商业解决方案的权衡，以及MCP等新兴协议对AI系统互操作性的影响。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Agent",
+    "Multi-Agent",
+    "Deployment"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-18T11:49:51.207951+00:00",
+  "published_at": "2026-06-18T10:12:15+00:00",
+  "score": 7
+}

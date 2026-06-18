@@ -1,0 +1,17 @@
+{
+  "id": "hacker_news-20260618-0e4245f33675",
+  "title": "Untitled",
+  "source_url": "https://www.repowise.dev/blog/engineering/is-ai-written-code-buggier-than-human-code",
+  "source_type": "hacker_news",
+  "summary": "该条目讨论了一篇关于AI生成代码是否比人类编写代码更容易出现错误的文章。文章通过实验或分析比较了AI代码与人类代码的bug率，探讨了AI在软件开发中的可靠性和潜在风险。尽管社区关注度较低（仅1个点赞、0条评论），但该话题涉及AI代码质量评估，对开发者选择AI辅助工具有参考价值。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Tool"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-18T11:49:51.207631+00:00",
+  "published_at": "2026-06-18T11:45:35+00:00",
+  "score": 4
+}

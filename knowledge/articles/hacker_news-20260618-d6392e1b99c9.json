@@ -1,0 +1,17 @@
+{
+  "id": "hacker_news-20260618-d6392e1b99c9",
+  "title": "Untitled",
+  "source_url": "https://www.unrealengine.com/news/unreal-engine-5-8-is-now-available",
+  "source_type": "hacker_news",
+  "summary": "虚幻引擎5.8版本正式发布，带来了多项技术更新和性能优化，包括对Nanite、Lumen等核心渲染技术的改进，以及对新平台的支持。该版本旨在提升游戏开发者的工作效率和创作自由度，进一步巩固虚幻引擎在实时3D创作领域的领先地位。",
+  "tags": [
+    "Framework",
+    "Tool",
+    "Deployment"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-18T11:49:51.207929+00:00",
+  "published_at": "2026-06-18T10:12:16+00:00",
+  "score": 7
+}
