@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260619-ef65760d0ed4",
+  "title": "Untitled",
+  "source_url": "https://www.independent.co.uk/news/world/americas/us-politics/elon-musk-grok-ai-iran-missiles-pentagon-b2997321.html",
+  "source_type": "hacker_news",
+  "summary": "该条目报道了埃隆·马斯克的AI项目Grok被用于分析伊朗导弹相关情报，并可能与美国国防部（五角大楼）产生关联。文章突出了AI在国家安全和军事分析领域的应用潜力，展示了大型语言模型（LLM）在实时情报处理中的实际价值，同时也引发了关于AI安全性和伦理的讨论。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Security",
+    "Tool"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-19T12:04:24.466941+00:00",
+  "published_at": "2026-06-19T10:38:36+00:00",
+  "score": 7
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github_trending-20260619-c5cf070a7415",
+  "title": "fighting41love/funNLP",
+  "source_url": "https://github.com/fighting41love/funNLP",
+  "source_type": "github_trending",
+  "summary": "funNLP是一个综合性的自然语言处理（NLP）资源集合，涵盖了从基础工具（如分词、词性标注、命名实体识别）到高级应用（如情感分析、文本生成、知识图谱构建）的广泛内容。它提供了丰富的中文语料库、预训练模型、算法实现和实用工具，包括敏感词检测、信息抽取、语音识别、对话系统等。该项目整合了开源社区的最新成果，适合NLP研究者和开发者快速获取资源，推动中文NLP技术的应用与创新。",
+  "tags": [
+    "AI",
+    "NLP",
+    "Open Source",
+    "Tool",
+    "Framework"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-19T12:04:24.466402+00:00",
+  "published_at": null,
+  "score": 9
+}

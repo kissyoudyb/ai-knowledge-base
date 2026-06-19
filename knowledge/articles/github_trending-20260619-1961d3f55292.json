@@ -1,0 +1,18 @@
+{
+  "id": "github_trending-20260619-1961d3f55292",
+  "title": "guidance-ai/guidance",
+  "source_url": "https://github.com/guidance-ai/guidance",
+  "source_type": "github_trending",
+  "summary": "Guidance 是一种用于控制大型语言模型（LLM）的领域特定语言（DSL），旨在提供比传统提示工程更精确、更高效的结构化输出控制。它允许开发者通过编程方式定义生成逻辑，包括条件分支、循环、变量绑定和约束，从而减少幻觉并提升输出一致性。该工具特别适用于需要严格格式控制的应用场景，如代码生成、数据提取和对话系统。其核心价值在于将 LLM 的生成过程从自由文本转化为可控的、可组合的计算流程，显著提升了 LLM 在工程化部署中的实用性和可靠性。",
+  "tags": [
+    "LLM",
+    "Framework",
+    "Tool",
+    "AI"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-19T12:04:24.466575+00:00",
+  "published_at": null,
+  "score": 8
+}

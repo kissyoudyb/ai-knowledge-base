@@ -1,0 +1,17 @@
+{
+  "id": "hacker_news-20260619-3511b7d3fd7f",
+  "title": "Untitled",
+  "source_url": "https://github.com/gs202/PageToMD",
+  "source_type": "hacker_news",
+  "summary": "这是一个名为PageToMD的开源工具，旨在将网页内容转换为Markdown格式。它可能通过解析HTML、提取正文并转换为结构化文本，适用于内容抓取、文档生成或AI预处理场景。项目托管在GitHub上，但当前在Hacker News上关注度较低（2分，0评论），可能处于早期阶段或缺乏推广。",
+  "tags": [
+    "Tool",
+    "Open Source",
+    "Deployment"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-19T12:04:24.467071+00:00",
+  "published_at": "2026-06-19T09:01:49+00:00",
+  "score": 4
+}

@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260619-211ed12ee258",
+  "title": "Untitled",
+  "source_url": "https://news.ycombinator.com/item?id=48597160",
+  "source_type": "hacker_news",
+  "summary": "该条目探讨了未来恶意软件和网络蠕虫的演化方向，预测其将利用本地模型实现自我变异和自适应，类似于生物病毒。作者认为，随着本地推理成本降低（如电力般廉价），这种非确定性LLM特性将成为优势，使每次感染独立演化，部分消亡部分存活。目前尚未大规模出现的原因是推理成本高、本地模型不成熟，缺乏投资回报。问题在于如何阻止其传播，并询问是否有相关实验记录。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Security",
+    "Agent"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-19T12:04:24.466880+00:00",
+  "published_at": "2026-06-19T10:58:21+00:00",
+  "score": 8
+}

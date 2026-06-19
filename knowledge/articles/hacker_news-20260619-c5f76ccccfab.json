@@ -1,0 +1,19 @@
+{
+  "id": "hacker_news-20260619-c5f76ccccfab",
+  "title": "Untitled",
+  "source_url": "https://www.wolffi.sh/",
+  "source_type": "hacker_news",
+  "summary": "Wolffish 是一款开源的桌面 AI 代理应用，旨在解决现有 AI 工具配置复杂、安全性差、更新易崩溃等问题。它无需服务器、无需模板设置，安装即用，支持 DeepSeek、GLM、Claude、GPT 等多种模型，并可完全离线运行本地模型。用户数据完全保留在本地，强调隐私和安全。项目面向未来开放权重模型，让用户真正拥有和控制自己的数字代理。",
+  "tags": [
+    "AI",
+    "Agent",
+    "Open Source",
+    "Security",
+    "Tool"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-19T12:04:24.466720+00:00",
+  "published_at": "2026-06-19T11:32:15+00:00",
+  "score": 7
+}

@@ -1,0 +1,17 @@
+{
+  "id": "hacker_news-20260619-b28f036006ba",
+  "title": "Untitled",
+  "source_url": "https://evidence.dev/",
+  "source_type": "hacker_news",
+  "summary": "Evidence.dev 是一个面向开发者的开源工具，旨在简化数据分析和报告生成流程。它允许用户通过编写 SQL 查询来创建交互式、可共享的仪表板，无需复杂的前端开发。该工具强调数据驱动决策，支持多种数据库连接，并提供版本控制和协作功能。其技术亮点在于将数据查询与可视化无缝集成，降低了数据分析的门槛，适合团队快速构建数据报告。",
+  "tags": [
+    "Tool",
+    "Open Source",
+    "Framework"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-19T12:04:24.466984+00:00",
+  "published_at": "2026-06-19T09:56:40+00:00",
+  "score": 6
+}

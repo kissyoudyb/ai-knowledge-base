@@ -1,0 +1,19 @@
+{
+  "id": "github_trending-20260619-fe2735aa819b",
+  "title": "Hannibal046/Awesome-LLM",
+  "source_url": "https://github.com/Hannibal046/Awesome-LLM",
+  "source_type": "github_trending",
+  "summary": "Awesome-LLM 是一个精选的大型语言模型（LLM）资源列表，由 Hannibal046 维护。该项目系统整理了 LLM 领域的论文、模型、工具、训练框架、部署方案及评测基准等核心资源，覆盖从基础研究到实际应用的完整链路。作为开源社区中知名度极高的 LLM 知识索引，它帮助开发者快速了解前沿进展、选择合适工具，并推动 LLM 技术的普及与落地。",
+  "tags": [
+    "LLM",
+    "Open Source",
+    "Tool",
+    "Framework",
+    "AI"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-19T12:04:24.466547+00:00",
+  "published_at": null,
+  "score": 8
+}

@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260619-443e87ec0a3c",
+  "title": "Untitled",
+  "source_url": "https://github.com/jaquelinejaque/quorum-saas-starter",
+  "source_type": "hacker_news",
+  "summary": "这是一个名为 Quorum 的 SaaS 启动模板项目，托管在 GitHub 上，旨在帮助开发者快速搭建 SaaS 应用。项目可能提供了常见的 SaaS 功能模块，如用户认证、支付集成、团队管理等，但具体技术细节未在描述中明确。由于缺乏评论和较低的点数，该项目当前社区关注度较低。",
+  "tags": [
+    "Framework",
+    "Tool",
+    "Deployment",
+    "Open Source"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-19T12:04:24.467006+00:00",
+  "published_at": "2026-06-19T09:53:50+00:00",
+  "score": 3
+}

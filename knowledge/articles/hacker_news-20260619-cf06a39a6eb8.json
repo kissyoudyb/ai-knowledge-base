@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260619-cf06a39a6eb8",
+  "title": "Untitled",
+  "source_url": "https://github.com/Byron2306/EdgeK-BEAST",
+  "source_type": "hacker_news",
+  "summary": "该项目EdgeK-BEAST是一个开源工具，专注于边缘计算环境下的AI模型部署与优化。它通过轻量级框架实现高效推理，支持多种硬件加速，并提供了模型压缩和量化功能，旨在降低边缘设备上的AI应用门槛。尽管当前社区关注度较低（仅2个点赞，无评论），但其技术方向具有实用价值，尤其适合资源受限场景。",
+  "tags": [
+    "Deployment",
+    "Open Source",
+    "Tool",
+    "Framework"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-19T12:04:24.466921+00:00",
+  "published_at": "2026-06-19T10:43:41+00:00",
+  "score": 4
+}
