@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260620-12c5da9aa200",
+  "title": "Untitled",
+  "source_url": "https://github.com/Wavesonics/C2PAVerify",
+  "source_type": "hacker_news",
+  "summary": "该条目指向 GitHub 上的 C2PAVerify 项目，是一个用于验证 C2PA（内容来源与真实性联盟）签名的工具。C2PA 是一种开放标准，旨在通过加密签名追踪数字内容的来源和修改历史，对抗深度伪造和虚假信息。该项目提供命令行和库接口，支持验证图像、视频等媒体文件的 C2PA 元数据。其技术亮点在于为 AI 生成内容提供可追溯性，增强数字内容信任度，对安全、媒体验证和 AI 伦理领域具有实用价值。",
+  "tags": [
+    "Security",
+    "Open Source",
+    "Tool",
+    "AI"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-20T10:31:18.475416+00:00",
+  "published_at": "2026-06-20T06:12:23+00:00",
+  "score": 6
+}

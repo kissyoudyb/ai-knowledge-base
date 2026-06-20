@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260620-4582fa80045e",
+  "title": "Untitled",
+  "source_url": "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
+  "source_type": "hacker_news",
+  "summary": "该文章讨论了人工智能技术对电力基础设施的冲击，特别是AI数据中心对电网的巨大需求。随着AI模型训练和推理的能耗激增，电力公司面临前所未有的压力，需要扩建发电设施和升级电网。文章指出，AI的快速发展可能加剧能源短缺，并推动对清洁能源和高效冷却技术的需求。这一趋势凸显了AI部署中的能源瓶颈，以及技术发展与可持续性之间的平衡挑战。",
+  "tags": [
+    "AI",
+    "Deployment",
+    "Infrastructure",
+    "Energy"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-20T10:31:18.475379+00:00",
+  "published_at": "2026-06-20T06:52:15+00:00",
+  "score": 7
+}

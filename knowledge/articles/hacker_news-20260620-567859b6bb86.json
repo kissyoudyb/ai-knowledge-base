@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260620-567859b6bb86",
+  "title": "Untitled",
+  "source_url": "https://www.cio.com/article/4187280/google-microsoft-offer-specs-to-help-you-prove-your-ai-is-behaving-nicely.html",
+  "source_type": "hacker_news",
+  "summary": "谷歌和微软发布了技术规范，帮助开发者验证AI系统的行为是否符合预期，确保AI“表现良好”。这些规范旨在解决AI部署中的安全性和可靠性问题，通过提供具体的测试指标和评估方法，降低AI应用的风险。文章强调了在AI快速发展的背景下，建立标准化验证流程的重要性，以增强用户信任并推动负责任的AI实践。",
+  "tags": [
+    "AI",
+    "Security",
+    "Framework",
+    "Deployment"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-20T10:31:18.475288+00:00",
+  "published_at": "2026-06-20T08:15:54+00:00",
+  "score": 7
+}

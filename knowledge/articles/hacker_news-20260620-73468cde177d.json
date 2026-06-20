@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260620-73468cde177d",
+  "title": "Untitled",
+  "source_url": "https://github.com/chopratejas/headroom",
+  "source_type": "hacker_news",
+  "summary": "该项目是一个名为“Headroom”的开源工具，旨在通过分析GitHub仓库的提交历史、问题追踪和社区活动，自动生成项目健康度报告。它利用AI技术（如LLM）对仓库的活跃度、维护状态和风险进行评估，帮助开发者快速了解项目是否值得依赖或贡献。该工具特别适合开源生态中的决策支持，如选择依赖库或评估项目可持续性。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Open Source",
+    "Tool"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-20T10:31:18.475463+00:00",
+  "published_at": "2026-06-20T04:45:42+00:00",
+  "score": 6
+}

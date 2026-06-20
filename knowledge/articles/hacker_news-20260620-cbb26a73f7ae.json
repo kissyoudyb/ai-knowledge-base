@@ -1,0 +1,19 @@
+{
+  "id": "hacker_news-20260620-cbb26a73f7ae",
+  "title": "Untitled",
+  "source_url": "https://news.ycombinator.com/item?id=48606997",
+  "source_type": "hacker_news",
+  "summary": "该条目讨论了当前AI代理（Agent）在使用bash、git、npm等命令行工具时，因输出冗长导致LLM令牌消耗高的问题。现有项目如rtk、headroom、lean-ctx通过压缩工具输出来节省令牌，但可能增加交互轮次，抵消单轮节省。作者提出疑问：未来是否会出现专门为LLM优化输出结构的产品或库，以提升代理效率。这反映了AI代理工具链中一个关键优化方向。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Agent",
+    "Tool",
+    "Framework"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-20T10:31:18.475366+00:00",
+  "published_at": "2026-06-20T06:58:33+00:00",
+  "score": 7
+}

@@ -1,0 +1,19 @@
+{
+  "id": "hacker_news-20260620-ec72526c080d",
+  "title": "Untitled",
+  "source_url": "https://rorlikowski.github.io/stepyard/",
+  "source_type": "hacker_news",
+  "summary": "StepYard 是一个开源工具，旨在简化 AI 工作流的构建与部署。它通过可视化的步骤编排方式，让开发者能够快速组合 LLM 调用、数据处理和外部 API 集成等任务，无需编写大量代码。该工具强调模块化和可扩展性，支持多种 AI 模型和服务的接入，适合快速原型开发和生产环境部署。其设计理念降低了 AI 应用开发的门槛，提升了开发效率。",
+  "tags": [
+    "Tool",
+    "Framework",
+    "LLM",
+    "Deployment",
+    "Open Source"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-20T10:31:18.475200+00:00",
+  "published_at": "2026-06-20T09:21:46+00:00",
+  "score": 6
+}

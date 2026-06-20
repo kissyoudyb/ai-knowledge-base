@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260620-17bb681c7434",
+  "title": "Untitled",
+  "source_url": "https://mwi.westpoint.edu/data-center-warfare-defending-the-key-terrain-of-ai-infrastructure/",
+  "source_type": "hacker_news",
+  "summary": "本文探讨了数据中心在人工智能基础设施中的关键作用，将其视为现代战争中的“关键地形”。文章指出，随着AI技术的快速发展，数据中心成为支撑AI模型训练和推理的核心资源，因此也成为网络攻击和物理攻击的重点目标。作者分析了针对数据中心的潜在威胁，包括网络入侵、供应链攻击和物理破坏，并提出了多层防御策略，如加强物理安全、网络分段、实时监控和冗余设计。文章强调了保护AI基础设施对于国家安全和技术优势的重要性，呼吁采取主动防御措施以确保数据中心的韧性和可靠性。",
+  "tags": [
+    "AI",
+    "Security",
+    "Deployment",
+    "Infrastructure"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-20T10:31:18.475244+00:00",
+  "published_at": "2026-06-20T09:09:40+00:00",
+  "score": 7
+}

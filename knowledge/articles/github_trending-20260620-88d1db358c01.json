@@ -1,0 +1,18 @@
+{
+  "id": "github_trending-20260620-88d1db358c01",
+  "title": "QwenLM/Qwen3-VL",
+  "source_url": "https://github.com/QwenLM/Qwen3-VL",
+  "source_type": "github_trending",
+  "summary": "Qwen3-VL 是阿里云 Qwen 团队开发的多模态大语言模型系列，具备视觉与语言理解能力，可处理图像、视频等多种输入。该模型在视觉问答、图像描述、文档理解等任务上表现优异，延续了 Qwen 系列在开源社区的高关注度。其技术亮点包括高效的多模态融合架构、强大的跨模态推理能力，以及对中文和英文场景的优化支持。作为开源模型，Qwen3-VL 为多模态 AI 研究和应用提供了重要基础，降低了开发门槛。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Open Source",
+    "Multimodal"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-20T10:31:18.475102+00:00",
+  "published_at": null,
+  "score": 8
+}

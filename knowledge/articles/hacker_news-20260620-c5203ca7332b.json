@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260620-c5203ca7332b",
+  "title": "Untitled",
+  "source_url": "https://blog.apnic.net/2026/06/19/rethinking-vulnerability-management-in-the-age-of-ai-and-ci-cd/",
+  "source_type": "hacker_news",
+  "summary": "本文探讨了在人工智能和持续集成/持续部署（CI/CD）时代下，传统漏洞管理方法的局限性，并提出了一种新的思考框架。文章指出，随着AI驱动的代码生成和自动化部署的普及，漏洞的引入速度和复杂性显著增加，传统基于人工审核和定期扫描的模式已难以应对。作者建议采用更动态、上下文感知的漏洞管理策略，包括利用AI进行实时威胁建模、自动化补丁优先级排序，以及将安全测试无缝嵌入CI/CD流水线。文章强调了从“修复漏洞”到“管理风险”的转变，并提供了具体的技术实践建议，旨在帮助组织在快速迭代中保持安全韧性。",
+  "tags": [
+    "AI",
+    "Security",
+    "CI/CD",
+    "Vulnerability Management"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-20T10:31:18.475123+00:00",
+  "published_at": "2026-06-20T10:25:26+00:00",
+  "score": 8
+}

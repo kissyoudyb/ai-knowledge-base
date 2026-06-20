@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260620-4114188f19f3",
+  "title": "Untitled",
+  "source_url": "https://github.com/alkait/whatskept",
+  "source_type": "hacker_news",
+  "summary": "该项目是一个用Go语言编写的单一二进制工具，能够从iOS备份中提取WhatsApp聊天记录，并使其可被AI代理查询。它支持在Mac和Windows上运行，为AI代理提供了访问个人WhatsApp历史数据的能力，从而可能用于个性化对话、信息检索或自动化任务。其技术亮点在于将本地数据与AI代理无缝集成，简化了数据访问流程。",
+  "tags": [
+    "AI",
+    "Agent",
+    "Tool",
+    "Open Source"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-20T10:31:18.475222+00:00",
+  "published_at": "2026-06-20T09:20:20+00:00",
+  "score": 7
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github_trending-20260620-29909675cb7f",
+  "title": "QwenLM/Qwen",
+  "source_url": "https://github.com/QwenLM/Qwen",
+  "source_type": "github_trending",
+  "summary": "QwenLM/Qwen 是阿里巴巴云官方发布的通义千问大语言模型仓库，包含预训练和对话模型。该模型在中文和英文任务上表现出色，支持多种尺寸（如7B、14B、72B等），并具备强大的指令跟随、代码生成、数学推理等能力。其开源特性促进了社区研究和应用开发，具有较高的实用价值和影响力。",
+  "tags": [
+    "LLM",
+    "AI",
+    "Open Source",
+    "Fine-tuning",
+    "Deployment"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-20T10:31:18.475069+00:00",
+  "published_at": null,
+  "score": 9
+}
