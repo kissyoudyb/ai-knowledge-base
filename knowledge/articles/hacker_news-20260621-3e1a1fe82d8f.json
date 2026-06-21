@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260621-3e1a1fe82d8f",
+  "title": "Untitled",
+  "source_url": "https://github.com/jingkaihe/maco",
+  "source_type": "hacker_news",
+  "summary": "该项目是一个名为 Maco 的开源工具，旨在通过自动化方式优化大型语言模型（LLM）的提示词（prompt）和输出。它提供了一种系统化的方法来迭代改进提示词，以提高模型响应的质量和一致性。Maco 可能支持多种 LLM 后端，并允许用户定义评估标准，从而自动搜索更有效的提示词组合。该工具对于需要频繁调整提示词以优化 LLM 应用的开发者和研究人员具有实用价值，能够减少手动试错成本，提升 AI 应用的开发效率。",
+  "tags": [
+    "LLM",
+    "Tool",
+    "Open Source",
+    "Fine-tuning"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-21T11:15:07.478879+00:00",
+  "published_at": "2026-06-21T08:35:32+00:00",
+  "score": 6
+}

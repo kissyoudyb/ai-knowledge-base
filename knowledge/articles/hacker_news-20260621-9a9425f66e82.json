@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260621-9a9425f66e82",
+  "title": "Untitled",
+  "source_url": "https://github.com/cursor/agent-trace",
+  "source_type": "hacker_news",
+  "summary": "该条目指向 GitHub 上的一个项目“cursor/agent-trace”，可能是一个用于追踪 AI 代理（Agent）行为的工具或框架。由于缺乏详细描述和评论，其具体功能尚不明确，但结合 Cursor 编辑器背景，推测其旨在提升 AI 代理的可观测性和调试能力，对 Agent 开发与部署具有潜在价值。",
+  "tags": [
+    "Agent",
+    "Tool",
+    "Open Source",
+    "Framework"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-21T11:15:07.478949+00:00",
+  "published_at": "2026-06-21T07:48:17+00:00",
+  "score": 4
+}

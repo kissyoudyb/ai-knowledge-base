@@ -1,0 +1,17 @@
+{
+  "id": "hacker_news-20260621-ed40e6f74b62",
+  "title": "Untitled",
+  "source_url": "https://fivetakes.news/did-anthropic-talk-its-way-into-an-ai-export-ban",
+  "source_type": "hacker_news",
+  "summary": "该条目讨论了一篇关于Anthropic公司可能通过自身言论导致其AI技术被列入出口禁令的文章。文章质疑Anthropic在公开场合过度强调其AI模型的安全性风险，反而引发了监管机构的关注，最终可能促成了针对其技术的出口限制。这一事件反映了AI公司在安全宣传与商业利益之间的微妙平衡，以及技术出口政策对AI行业的影响。",
+  "tags": [
+    "AI",
+    "Security",
+    "Policy"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-21T11:15:07.478864+00:00",
+  "published_at": "2026-06-21T08:39:51+00:00",
+  "score": 6
+}

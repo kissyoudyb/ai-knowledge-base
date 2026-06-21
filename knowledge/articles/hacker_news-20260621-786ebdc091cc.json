@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260621-786ebdc091cc",
+  "title": "Untitled",
+  "source_url": "https://blog.andymasley.com/p/what-does-it-mean-for-ai-to-be-democratic",
+  "source_type": "hacker_news",
+  "summary": "本文探讨了“AI民主化”的含义，指出其不仅是技术普及，更涉及权力分配、参与决策和公平访问。作者批判了当前AI由少数大公司控制的现状，提出真正的民主AI应让用户和社区在模型训练、数据使用和治理中拥有发言权。文章强调了开源模型、去中心化基础设施和透明审计的重要性，并讨论了实现民主AI面临的挑战，如资源不平等和监管滞后。",
+  "tags": [
+    "AI",
+    "Open Source",
+    "Security",
+    "Framework"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-21T11:15:07.478757+00:00",
+  "published_at": "2026-06-21T09:51:43+00:00",
+  "score": 7
+}

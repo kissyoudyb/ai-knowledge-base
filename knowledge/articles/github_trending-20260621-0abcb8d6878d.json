@@ -1,0 +1,19 @@
+{
+  "id": "github_trending-20260621-0abcb8d6878d",
+  "title": "mlabonne/llm-course",
+  "source_url": "https://github.com/mlabonne/llm-course",
+  "source_type": "github_trending",
+  "summary": "这是一个面向开发者的LLM学习路线图与实战教程项目，提供从基础到进阶的完整课程体系，包含Colab笔记本和可操作的代码示例。项目覆盖LLM核心概念、微调技术、部署策略及Agent开发等关键主题，适合希望系统掌握大语言模型技术的学习者。其亮点在于结合了理论讲解与动手实践，并持续更新以跟踪最新进展。",
+  "tags": [
+    "LLM",
+    "Fine-tuning",
+    "Deployment",
+    "Open Source",
+    "Tool"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-21T11:15:07.478291+00:00",
+  "published_at": null,
+  "score": 8
+}

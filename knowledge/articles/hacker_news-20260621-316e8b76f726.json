@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260621-316e8b76f726",
+  "title": "Untitled",
+  "source_url": "https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future/",
+  "source_type": "hacker_news",
+  "summary": "本文讨论了对未来由大型语言模型（LLM）编写的事故报告可能带来的担忧。作者认为，随着LLM在技术文档和事故报告中的广泛应用，这些报告可能会失去人类撰写的深度、真实性和反思性，导致内容同质化、缺乏关键细节和真正的因果分析。文章强调了依赖LLM生成报告可能掩盖系统性问题，并呼吁在自动化与人类判断之间保持平衡。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Deployment",
+    "Security"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-21T11:15:07.478848+00:00",
+  "published_at": "2026-06-21T08:53:40+00:00",
+  "score": 6
+}

@@ -1,0 +1,17 @@
+{
+  "id": "hacker_news-20260621-dabda90660f4",
+  "title": "Untitled",
+  "source_url": "https://adlrocha.substack.com/p/adlrocha-form-before-data-the-real",
+  "source_type": "hacker_news",
+  "summary": "该文章探讨了在软件开发中“先有形式（Form）再有数据（Data）”的设计理念，强调通过预先定义清晰的数据结构和接口规范，能够提升系统的可维护性、可扩展性和数据质量。文章结合实际案例，分析了这种自上而下的设计方法如何帮助开发者避免后期数据混乱和重构成本，尤其适用于需要长期演进和多人协作的项目。其技术亮点在于将形式化设计作为数据驱动的基石，为构建健壮系统提供了实用指导。",
+  "tags": [
+    "Framework",
+    "Tool",
+    "Deployment"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-21T11:15:07.478782+00:00",
+  "published_at": "2026-06-21T09:20:21+00:00",
+  "score": 6
+}

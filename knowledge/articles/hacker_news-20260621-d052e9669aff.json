@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260621-d052e9669aff",
+  "title": "Untitled",
+  "source_url": "https://blog.jackdavis.net/ai/security/2026/06/16/agent-privacy-research-writeup.html",
+  "source_type": "hacker_news",
+  "summary": "该文章探讨了AI Agent在隐私保护方面的研究，分析了当前Agent系统在处理用户数据时可能存在的隐私泄露风险，并提出了一系列隐私保护策略和设计原则。文章强调了在Agent架构中集成隐私保护机制的重要性，包括数据最小化、访问控制和安全通信等。对于构建可信赖的AI Agent系统具有重要参考价值。",
+  "tags": [
+    "AI",
+    "Agent",
+    "Security",
+    "Privacy"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-21T11:15:07.478549+00:00",
+  "published_at": "2026-06-21T11:08:59+00:00",
+  "score": 7
+}

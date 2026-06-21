@@ -1,0 +1,17 @@
+{
+  "id": "hacker_news-20260621-5e203a049db9",
+  "title": "Untitled",
+  "source_url": "https://www.didon.app/",
+  "source_type": "hacker_news",
+  "summary": "一位独立工程师因现有时间追踪工具无法全面记录工作活动，开发了名为 Didon 的 AI 时间追踪器。该工具通过定期截取屏幕画面，利用 AI 自动生成工作日志并汇总为每日工作报告，旨在模拟外部老板的监督反馈，提升个人生产力。其技术亮点在于将计算机视觉与 AI 日志生成结合，实现无感、自动化的时间管理。",
+  "tags": [
+    "AI",
+    "Tool",
+    "Open Source"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-21T11:15:07.478673+00:00",
+  "published_at": "2026-06-21T10:46:54+00:00",
+  "score": 7
+}

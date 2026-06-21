@@ -1,0 +1,19 @@
+{
+  "id": "hacker_news-20260621-af660e15248e",
+  "title": "Untitled",
+  "source_url": "https://faridsaid.com/en/blog/event-loop-starvation-trading.html",
+  "source_type": "hacker_news",
+  "summary": "该文章讨论了事件循环（Event Loop）饥饿问题在交易系统中的应用，特别是Node.js环境下因长时间运行的任务导致事件循环阻塞，进而影响交易系统的实时性和可靠性。文章通过具体案例分析了饥饿现象如何导致交易延迟、数据丢失或系统崩溃，并提出了优化策略，如使用Worker线程、分割任务或采用异步非阻塞设计。技术亮点在于将底层运行时机制与高频交易场景结合，揭示了事件循环管理对金融系统稳定性的关键影响。",
+  "tags": [
+    "Event Loop",
+    "Node.js",
+    "Trading",
+    "Performance",
+    "Security"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-21T11:15:07.478908+00:00",
+  "published_at": "2026-06-21T08:24:49+00:00",
+  "score": 7
+}

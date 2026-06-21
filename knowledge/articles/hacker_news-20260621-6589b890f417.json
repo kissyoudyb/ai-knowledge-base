@@ -1,0 +1,18 @@
+{
+  "id": "hacker_news-20260621-6589b890f417",
+  "title": "Untitled",
+  "source_url": "https://news.ycombinator.com/item?id=48616596",
+  "source_type": "hacker_news",
+  "summary": "这是一个基于时间计费的Web IDE项目，提供AI辅助编程、安全终端（0.5vCPU/512MB内存）、GitHub集成和多设备访问功能。其核心亮点是“无限AI会话”和按小时计费模式，适合轻量级开发或临时编程任务。项目在Hacker News上发布，但关注度较低（1分、1评论），技术新颖度一般，实用价值有限。",
+  "tags": [
+    "Tool",
+    "AI",
+    "Deployment",
+    "Open Source"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-21T11:15:07.478962+00:00",
+  "published_at": "2026-06-21T07:44:21+00:00",
+  "score": 3
+}

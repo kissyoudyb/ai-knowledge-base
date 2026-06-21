@@ -1,0 +1,19 @@
+{
+  "id": "github_trending-20260621-28b22aa6ebfd",
+  "title": "QwenLM/Qwen3",
+  "source_url": "https://github.com/QwenLM/Qwen3",
+  "source_type": "github_trending",
+  "summary": "Qwen3 是阿里云 Qwen 团队开发的大型语言模型系列，延续了 Qwen 系列在开源社区的高关注度。该模型系列可能包含多尺寸版本，支持多语言、多模态扩展，并针对 Agent 和工具调用进行了优化。其技术亮点在于高性能与低部署成本的平衡，以及强大的指令遵循能力，适用于对话、代码生成、推理等多种场景。作为开源模型，Qwen3 为开发者和企业提供了灵活的基础模型选择，推动了 LLM 的民主化应用。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Open Source",
+    "Agent",
+    "Deployment"
+  ],
+  "status": "draft",
+  "lang": "zh",
+  "collected_at": "2026-06-21T11:15:07.478431+00:00",
+  "published_at": null,
+  "score": 8
+}
